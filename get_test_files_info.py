@@ -15,9 +15,10 @@ def list_files(startpath):
             file_name = file
             relative_path = os.path.relpath(root, startpath)
             file_extension = os.path.splitext(file)[1]
+            file_size = os.path.getsize(os.path.join(root, file))
             
             # Append file information to the list
-            file_list.append((relative_path, file_name, file_extension if file_extension else "-"))
+            file_list.append((relative_path, file_name, file_extension if file_extension else "-", file_size))
             print(f"'{file}' found")
     
     return file_list
@@ -34,7 +35,7 @@ csv_file = "test_files_info.csv"
 # Write the file information to a CSV file
 with open(csv_file, mode='w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['Relative Path', 'File Name', 'File Extension'])
+    writer.writerow(['Relative Path', 'File Name', 'File Extension', 'File Size'])
     writer.writerows(files_info)
 
 print(f"\nFound {len(files_info)} files.")

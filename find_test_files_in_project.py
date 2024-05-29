@@ -68,12 +68,16 @@ def search_and_extend(java_project_folder, file_info_csv, output_csv):
                             if matches:
                                 found_flag = True
                                 for test_name, width, height in matches:
-                                    extended_row = original_row + [package, f'{os.path.splitext(project_file)[0]}.{test_name}' if test_name else os.path.splitext(project_file)[0], f'{width}x{height}' if (width and height) else 'NF']
+                                    test_field = f'{os.path.splitext(project_file)[0]}.{test_name}' if test_name else os.path.splitext(project_file)[0]
+                                    dimensions_field = f'{width}x{height}' if (width and height) else 'NF'
+                                    extended_row = original_row + [package, test_field, dimensions_field]
+                                    
                                     writer.writerow(extended_row)
                                     print(extended_row)
             # If the string was not found anywhere, add "NF" to the new columns
             if not found_flag:
                 extended_row = original_row + ['NF', 'NF', 'NF']
+                
                 writer.writerow(extended_row)
                 print(extended_row)
 

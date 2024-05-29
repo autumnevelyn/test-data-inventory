@@ -1,746 +1,746 @@
-Relative Path,File Name,File Extension
-common,1.data,.data
-common,11-58806.data,.data
-common,11.data,.data
-common,12-54566.data,.data
-common,12.data,.data
-common,123456789987654123123456789987654321.data,.data
-common,14-62859.data,.data
-common,14.data,.data
-common,15-42991.data,.data
-common,15.data,.data
-common,17_face.data,.data
-common,1_1.bmp,.bmp
-common,1_1.data,.data
-common,1_1_scaled_1000_to_500.data,.data
-common,1_1_scaled_500_to_600.data,.data
-common,2.data,.data
-common,2XS2001L02.data,.data
-common,2_1.bmp,.bmp
-common,2_1.data,.data
-common,2_180.data,.data
-common,3-93453.data,.data
-common,32_faces.data,.data
-common,32_faces_399by527.data,.data
-common,32_faces_400by528.data,.data
-common,33_faces.data,.data
-common,3_1.bmp,.bmp
-common,3_1.data,.data
-common,3_1_threshold_48.cfd,.cfd
-common,3_rotate90.data,.data
-common,4-33898.data,.data
-common,4.data,.data
-common,4Slap_Left.data,.data
-common,4Slap_Right.data,.data
-common,4_1.bmp,.bmp
-common,4_1.data,.data
-common,4_rotate270.data,.data
-common,5-66651.data,.data
-common,5.data,.data
-common,5_1.bmp,.bmp
-common,5_1.data,.data
-common,7-98707.data,.data
-common,7.data,.data
-common,8-68682.data,.data
-common,8.data,.data
-common,8face.data,.data
-common,9_faces.data,.data
-common,AESDBFace_test,-
-common,AESFacetest,-
-common,bigSize1500x1200.wsq,.wsq
-common,childISO.data,.data
-common,Clean1upEnc,-
-common,closed_eyes.data,.data
-common,closed_right_eye.data,.data
-common,corruptDBFace,-
-common,eye1.data,.data
-common,eye10.data,.data
-common,eye2.data,.data
-common,eye3.data,.data
-common,eye4.data,.data
-common,eye5.data,.data
-common,eye6.data,.data
-common,eye7.data,.data
-common,eye8.data,.data
-common,eye9.data,.data
-common,face1.data,.data
-common,face1.yuv,.yuv
-common,face1_180.yuv,.yuv
-common,face1_270.yuv,.yuv
-common,face1_90.yuv,.yuv
-common,face1_test_db,-
-common,faceDBEncAES,-
-common,faceDBEncAES256,-
-common,faceDBEncChachaa,-
-common,faceDBEnChacha256,-
-common,faceISO.data,.data
-common,face_11.data,.data
-common,face_22.data,.data
-common,face_33.data,.data
-common,face_db_cleanup,-
-common,Face_eyes_closed.data,.data
-common,face_test_db,-
-common,finger1.data,.data
-common,finger1.wsq,.wsq
-common,finger10.data,.data
-common,finger11.data,.data
-common,finger180.data,.data
-common,finger2.data,.data
-common,finger3.data,.data
-common,finger4.data,.data
-common,finger5.data,.data
-common,finger6.data,.data
-common,finger7.data,.data
-common,finger8.data,.data
-common,finger9.data,.data
-common,fingerAEE,-
-common,fingerchachaCorruptF,-
-common,fingerDBEncAES,-
-common,fingerDBEncChacha,-
-common,fingert_db_CleanUp,-
-common,finger_180.data,.data
-common,fingetestdb,-
-common,FVC2000_Db1_100_1.raw,.raw
-common,FVC2000_Db1_100_2.raw,.raw
-common,FVC2000_Db1_100_3.raw,.raw
-common,FVC2000_Db1_100_4.raw,.raw
-common,FVC2000_Db1_100_5.raw,.raw
-common,FVC2000_Db1_100_6.raw,.raw
-common,FVC2000_Db1_100_7.raw,.raw
-common,FVC2000_Db1_100_8.raw,.raw
-common,head-tilt.data,.data
-common,iris1.raw,.raw
-common,iris2.raw,.raw
-common,iris3.raw,.raw
-common,irisBoth.raw,.raw
-common,irisISO.raw,.raw
-common,iris_image.data,.data
-common,katt-williams-head-tilted.data,.data
-common,left_4_slap_missing_middle.data,.data
-common,manifest.mf,.mf
-common,mouthOpen.data,.data
-common,nfiq_rolledImg.wsq,.wsq
-common,No_Left_eye.data,.data
-common,Obama_closed_right_eye.data,.data
-common,right_4_slap.data,.data
-common,right_4_slap_missing_index.data,.data
-common,right_4_slap_missing_little.data,.data
-common,right_4_slap_missing_middle.data,.data
-common,right_4_slap_missing_ring.data,.data
-common,Sunglases.data,.data
-common,testWSQ.wsq,.wsq
-common,testWSQIn.data,.data
-common,testWSQOut.data,.data
-common,testWSQ_HighBitRateAndComment.wsq,.wsq
-common,thumb_2_slap.data,.data
-common,thumb_2_slap_missing_left.data,.data
-common,thumb_2_slap_missing_right.data,.data
-common,tiltedface.data,.data
-common\face_crop\input,3_faces.data,.data
-common\face_crop\input,3_faces.png,.png
-common\face_crop\input,blankwhite.data,.data
-common\face_crop\input,blankwhite.jpg,.jpg
-common\face_crop\input,handsome-man-wearing-glasses-high-res.data,.data
-common\face_crop\input,handsome-man-wearing-glasses-high-res.jpg,.jpg
-common\face_crop\input,man_with_glasses.data,.data
-common\face_crop\input,man_with_glasses.jpg,.jpg
-common\face_crop\input,woman_11.bmp,.bmp
-common\face_crop\input,woman_11.data,.data
-common\face_crop\input,woman_1_2.bmp,.bmp
-common\face_crop\input,woman_1_2.data,.data
-common\face_crop\ref,handsome-man-wearing-glasses-high-res-240.jpg,.jpg
-common\face_crop\ref,handsome-man-wearing-glasses-high-res-480.jpg,.jpg
-common\face_crop\ref,handsome-man-wearing-glasses-high-res-720.jpg,.jpg
-common\face_crop\ref,man_with_glasses-240.jpg,.jpg
-common\face_crop\ref,woman_11-240.bmp,.bmp
-common\face_crop\ref,woman_1_2-240.bmp,.bmp
-common\image\face,8face.jp2,.jp2
-common\image\face,9_faces.jp2,.jp2
-common\image\face,closed_eyes_BGR.bmp,.bmp
-common\image\face,closed_eyes_BGR.data,.data
-common\image\face,face1.data,.data
-common\image\face,face1.jp2,.jp2
-common\image\face,face1_BGR.data,.data
-common\image\face,face1_BGR.jp2,.jp2
-common\image\face,face3.jpg,.jpg
-common\image\finger,left_4_slap_missing_middle.data,.data
-common\image\finger,left_4_slap_missing_middle_GS.jp2,.jp2
-common\image\finger,left_4_slap_missing_middle_GS.jpg,.jpg
-common\image\finger,right_4_slap.data,.data
-common\image\finger,right_4_slap_GS.data,.data
-common\image\finger,right_4_slap_GS.jpg,.jpg
-common\image\finger,thumb_2_slap.data,.data
-common\image\finger,thumb_2_slap_GS.data,.data
-common\image\finger,thumb_2_slap_GS.png,.png
-common\image\iris,irisBoth_BGR.jp2,.jp2
-common\ISOEncodeDecode,0000_000.jp2,.jp2
-common\ISOEncodeDecode,0000_000.jp2.bdb,.bdb
-common\ISOEncodeDecode,0000_000.png,.png
-common\ISOEncodeDecode,0000_000.png.bdb,.bdb
-common\ISOEncodeDecode,0000_001.png,.png
-common\ISOEncodeDecode,0001_L_0001.BDB,.BDB
-common\ISOEncodeDecode,0001_L_0001.jpg,.jpg
-common\ISOEncodeDecode,0001_R_0001.BDB,.BDB
-common\ISOEncodeDecode,0001_R_0001.jpg,.jpg
-common\ISOEncodeDecode,1_1.jp2,.jp2
-common\ISOEncodeDecode,1_1.jp2.bdb,.bdb
-common\ISOEncodeDecode,1_1.jp2.corrupt,.corrupt
-common\ISOEncodeDecode,1_1.jpg,.jpg
-common\ISOEncodeDecode,1_1.jpg.bdb,.bdb
-common\ISOEncodeDecode,1_1.jpg.corrupt,.corrupt
-common\ISOEncodeDecode,1_1.png,.png
-common\ISOEncodeDecode,1_1.png.bdb,.bdb
-common\ISOEncodeDecode,1_1.png.corrupt,.corrupt
-common\ISOEncodeDecode,face_01.j2k,.j2k
-common\ISOEncodeDecode,face_01.j2k.bdb,.bdb
-common\ISOEncodeDecode,face_01.jpg,.jpg
-common\ISOEncodeDecode,face_01.jpg.bdb,.bdb
-common\ISOEncodeDecode,face_01.png,.png
-common\ISOEncodeDecode,face_01.png.bdb,.bdb
-common\ISOEncodeDecode,face_02.jpg,.jpg
-common\ISOEncodeDecode,face_02.jpg.bdb,.bdb
-common\ISOEncodeDecode,nfiq_good.BDB,.BDB
-common\ISOEncodeDecode,nfiq_good.wsq,.wsq
-common\ISOEncodeDecode,nfiq_good.wsq.corrupt,.corrupt
-common\ISOEncodeDecode,nfiq_poor.bdb,.bdb
-common\ISOEncodeDecode,nfiq_poor.wsq,.wsq
-common\nist,ansi378.fmrpiv,.fmrpiv
-common\nist,ansi378Fingers10.fmr,.fmr
-common\nist,bad_config.txt,.txt
-common\nist,face.j2k,.j2k
-common\nist,face.jpg,.jpg
-common\nist,fingerprint.wsq,.wsq
-common\nist,minutiae.mnt,.mnt
-common\nist\references,long_string.nist,.nist
-common\nist\references,refAnsi378Fingers10.nist,.nist
-common\nist\references,refCustomIndex.nist,.nist
-common\nist\references,refFileAutoAndCustomIDC.nist,.nist
-common\nist\references,refFileCreationAutoIDC.nist,.nist
-common\nist\references,refFileCreationDisableAutoIDC1.nist,.nist
-common\nist\references,refFileCreationDisableAutoIDC2.nist,.nist
-common\nist\references,refFileCustomFieldNumber1.nist,.nist
-common\nist\references,refFileCustomFieldNumber1_MissingRecord10.nist,.nist
-common\nist\references,refFileCustomFieldNumber2.nist,.nist
-common\nist\references,refFullFile.nist,.nist
-common\nist\references,refJ2K.nist,.nist
-common\nist\references,refRec14EmptyImage.nist,.nist
-common\nist\references,TX12345678.nist,.nist
-common\nist\special-files,NewlineRecord.tdf,.tdf
-common\nist\special-files,NewlineRecord.text,.text
-common\nist\threads,fingerprint_000.wsq,.wsq
-common\nist\threads,fingerprint_001.wsq,.wsq
-common\nist\threads,fingerprint_002.wsq,.wsq
-common\nist\threads,fingerprint_003.wsq,.wsq
-common\nist\threads,fingerprint_004.wsq,.wsq
-common\nist\threads,fingerprint_005.wsq,.wsq
-common\nist\threads,fingerprint_006.wsq,.wsq
-common\nist\threads,fingerprint_007.wsq,.wsq
-common\nist\threads,fingerprint_008.wsq,.wsq
-common\nist\threads,photo_000.jpg,.jpg
-common\nist\threads,photo_001.jpg,.jpg
-common\nist\threads,photo_002.jpg,.jpg
-common\nist\threads,photo_003.jpg,.jpg
-common\tmpl_ANSI,1_1.cfd,.cfd
-common\tmpl_ANSI,2_1.cfd,.cfd
-common\tmpl_ANSI,3_1.cfd,.cfd
-common\tmpl_ANSI,4_1.cfd,.cfd
-common\tmpl_ANSI,5_1.cfd,.cfd
-common\tmpl_ISO,1_1.cfd,.cfd
-common\tmpl_ISO,2_1.cfd,.cfd
-common\tmpl_ISO,3_1.cfd,.cfd
-common\tmpl_ISO,4_1.cfd,.cfd
-common\tmpl_ISO,5_1.cfd,.cfd
-common\tmpl_ISOCC,1_1.cfd,.cfd
-common\tmpl_ISOCC,2_1.cfd,.cfd
-common\tmpl_ISOCC,3_1.cfd,.cfd
-common\tmpl_ISOCC,4_1.cfd,.cfd
-common\tmpl_ISOCC,5_1.cfd,.cfd
-common\tmpl_US,1_1_ANSI_MAX_20.cfd,.cfd
-common\tmpl_US,1_1_ISOCC.cfd,.cfd
-common\tmpl_US,1_1_ISOCC_MAX_20.cfd,.cfd
-common\tmpl_US,2_1_ANSI_MAX_20.cfd,.cfd
-common\tmpl_US,2_1_ISOCC.cfd,.cfd
-common\tmpl_US,2_1_ISOCC_MAX_20.cfd,.cfd
-common\tmpl_US,3_1_ANSI_MAX_20.cfd,.cfd
-common\tmpl_US,3_1_ISOCC.cfd,.cfd
-common\tmpl_US,3_1_ISOCC_MAX_20.cfd,.cfd
-common\tmpl_US\linux,1_1_ANSI.cfd,.cfd
-common\tmpl_US\linux,1_1_ISO.cfd,.cfd
-common\tmpl_US\linux,2_1_ANSI.cfd,.cfd
-common\tmpl_US\linux,2_1_ISO.cfd,.cfd
-common\tmpl_US\linux,3_1_ANSI.cfd,.cfd
-common\tmpl_US\linux,3_1_ISO.cfd,.cfd
-common\tmpl_US\windows,1_1_ANSI.cfd,.cfd
-common\tmpl_US\windows,1_1_ISO.cfd,.cfd
-common\tmpl_US\windows,2_1_ANSI.cfd,.cfd
-common\tmpl_US\windows,2_1_ISO.cfd,.cfd
-common\tmpl_US\windows,3_1_ANSI.cfd,.cfd
-common\tmpl_US\windows,3_1_ISO.cfd,.cfd
-face,faceQualityCfg.json,.json
-face,gpuCfg.json,.json
-face\image,0000000018078471_X11A.data,.data
-face\image,11.data,.data
-face\image,12.data,.data
-face\image,13.data,.data
-face\image,14.data,.data
-face\image,144.data,.data
-face\image,15.data,.data
-face\image,17.data,.data
-face\image,1_2.data,.data
-face\image,1_3.data,.data
-face\image,1_4.data,.data
-face\image,1_5.data,.data
-face\image,1_6.data,.data
-face\image,1_7.data,.data
-face\image,1_8.data,.data
-face\image,1_9.data,.data
-face\image,1_gallery.data,.data
-face\image,1_probe.data,.data
-face\image,21.data,.data
-face\image,3.data,.data
-face\image,33.data,.data
-face\image,48.data,.data
-face\image,4_1.data,.data
-face\image,5_1.data,.data
-face\image,6.data,.data
-face\image,6ren.data,.data
-face\image,6_1.data,.data
-face\image,8.data,.data
-face\image,b2.data,.data
-face\image,baby_4.data,.data
-face\image,black_white.data,.data
-face\image,busy_background_false.data,.data
-face\image,b_ears_not_obscured_by_hair_false.data,.data
-face\image,b_ears_not_obscured_by_hair_true.data,.data
-face\image,b_eye_color_0_hair_color_0.data,.data
-face\image,b_eye_color_false.data,.data
-face\image,b_gray_scale_prof_false.data,.data
-face\image,b_hair_color_false.data,.data
-face\image,b_no_moustache_False.data,.data
-face\image,b_no_moustache_True.data,.data
-face\image,c15.data,.data
-face\image,cartoon_false.data,.data
-face\image,chile.data,.data
-face\image,chile_10081_1213-58666_passall_3.data,.data
-face\image,contrast_6.data,.data
-face\image,Contrast_False.data,.data
-face\image,con_1.data,.data
-face\image,Dozens_Faces_M.data,.data
-face\image,duoren_1.data,.data
-face\image,E3_S0_A1_4d_1_depth_91.raw,.raw
-face\image,exposure_false.data,.data
-face\image,EyePatch_False.data,.data
-face\image,eye_open_false.data,.data
-face\image,eye_shadow_false.data,.data
-face\image,Faceg.data,.data
-face\image,Facep.data,.data
-face\image,face_bad_quality_from_mosip.data,.data
-face\image,flash_5.data,.data
-face\image,flash_reflection_false.data,.data
-face\image,frames_uncover_eyes_false.data,.data
-face\image,frontal_false.data,.data
-face\image,GC_gallery.data,.data
-face\image,GC_probe.data,.data
-face\image,glasses_true.data,.data
-face\image,Greyscale_False.data,.data
-face\image,hair_cross_eye_false.data,.data
-face\image,hat_true.data,.data
-face\image,heavy_frames_false.data,.data
-face\image,heying1.data,.data
-face\image,hotspot_false.data,.data
-face\image,ID_00028_01.data,.data
-face\image,ID_00028_02.data,.data
-face\image,ID_00845_1.data,.data
-face\image,ID_00845_2.data,.data
-face\image,ID_00846_1.data,.data
-face\image,ID_00846_2.data,.data
-face\image,inked_false.data,.data
-face\image,irisBoth.raw,.raw
-face\image,light_false.data,.data
-face\image,many_2.data,.data
-face\image,mouth_close_false.data,.data
-face\image,mult_face_013.data,.data
-face\image,n1.data,.data
-face\image,o13.data,.data
-face\image,object_close_face_false.data,.data
-face\image,P1_gallery.data,.data
-face\image,P1_probe.data,.data
-face\image,pixelation_false.data,.data
-face\image,portCol00002.data,.data
-face\image,pose_roll_large_001.data,.data
-face\image,RedEye_False.data,.data
-face\image,right_4_slap.data,.data
-face\image,Right_ok.data,.data
-face\image,Ripple_False.data,.data
-face\image,rotate_44_001.data,.data
-face\image,S027-01-t10_03.raw,.raw
-face\image,S145-01-t10_02.raw,.raw
-face\image,s19.data,.data
-face\image,S272-02-t10_01.raw,.raw
-face\image,sdk7010_fakeface_13.bmp.data,.data
-face\image,sdk7010_fakeface_24.bmp.data,.data
-face\image,shadow_across_face_false.data,.data
-face\image,shadow_behind_head_false.data,.data
-face\image,Sharp_false.data,.data
-face\image,shoulder_true.data,.data
-face\image,tenfaces.data,.data
-face\image,testFP_00032.bmp.data,.data
-face\image,testFP_01261.data,.data
-face\image,testFP_01529.data,.data
-face\image,testFP_02432.data,.data
-face\image,tinted_glasses_false.data,.data
-face\image,TX0000000009AGV1_X01A.data,.data
-face\image,veil_false.data,.data
-face\image,with_hat_cover.data,.data
-face\resources,faceQualityCfg.json,.json
-face\resources,faceQualityCfg_csharp.json,.json
-face\templates,1_2.cfd,.cfd
-face\templates,1_5.cfd,.cfd
-facepad,dependency.txt,.txt
-facepad,results.csv,.csv
-facepad\image,Live_0001_DSC01500.jpg,.jpg
-facepad\image,Live_0001_DSC01500.jpg.data,.data
-facepad\image,Live_0566_DSC05154.jpg,.jpg
-facepad\image,Live_0566_DSC05154.jpg.data,.data
-facepad\image,Live_0980_DSC07377.jpg,.jpg
-facepad\image,Live_0980_DSC07377.jpg.data,.data
-facepad\image,Live_1209_DSC08974.jpg,.jpg
-facepad\image,Live_1209_DSC08974.jpg.data,.data
-facepad\image,Live_1397_DSC03501-3.jpg,.jpg
-facepad\image,Live_1397_DSC03501-3.jpg.data,.data
-facepad\image,Live_1484_DSC06217.jpg,.jpg
-facepad\image,Live_1484_DSC06217.jpg.data,.data
-facepad\image,Live_1487_DSC07768.jpg,.jpg
-facepad\image,Live_1487_DSC07768.jpg.data,.data
-facepad\image,Live_1501_DSC04910.jpg,.jpg
-facepad\image,Live_1501_DSC04910.jpg.data,.data
-facepad\image,Live_1510_DSC00001.jpg,.jpg
-facepad\image,Live_1510_DSC00001.jpg.data,.data
-facepad\image,Live_1514_DSC02053.jpg,.jpg
-facepad\image,Live_1514_DSC02053.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub10_cap1.mp4_img_0150.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub10_cap1.mp4_img_0150.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub1_cap1.mp4_img_0120.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub1_cap1.mp4_img_0120.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub4_cap2.mp4_img_0145.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub4_cap2.mp4_img_0145.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub5_cap1.mp4_img_0120.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub5_cap1.mp4_img_0120.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub8_cap2.mp4_img_0030.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai10_080cm_sub8_cap2.mp4_img_0030.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai13_100cm_sub4_cap3.mp4_img_0090.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai13_100cm_sub4_cap3.mp4_img_0090.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai16_080cm_sub2_cap3.mp4_img_0120.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai16_080cm_sub2_cap3.mp4_img_0120.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai16_080cm_sub3_cap3.mp4_img_0120.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai16_080cm_sub3_cap3.mp4_img_0120.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai16_100cm_sub1_cap1.mp4_img_0060.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai16_100cm_sub1_cap1.mp4_img_0060.jpg.data,.data
-facepad\image,Spoof_WEBCAM_pai19_080cm_sub3_cap3.mp4_img_0030.jpg,.jpg
-facepad\image,Spoof_WEBCAM_pai19_080cm_sub3_cap3.mp4_img_0030.jpg.data,.data
-finger_perf_dbs,fingerEncryptionAES_100k.db,.db
-finger_perf_dbs,fingerEncryptionAES_10k.db,.db
-finger_perf_dbs,fingerEncryptionAES_50k.db,.db
-finger_perf_dbs,fingerEncryptionAES_5k.db,.db
-finger_perf_dbs,fingerEncryptionChacha_100k.db,.db
-finger_perf_dbs,fingerEncryptionChacha_10k.db,.db
-finger_perf_dbs,fingerEncryptionChacha_50k.db,.db
-finger_perf_dbs,fingerEncryptionCHACHA_5k.db,.db
-finger_perf_dbs,nonEnc_100k.db,.db
-finger_perf_dbs,nonEnc_10k.db,.db
-finger_perf_dbs,nonEnc_50k.db,.db
-finger_perf_dbs,nonEnc_5k.db,.db
-frp,blur_focus_001.jpg,.jpg
-frp,blur_focus_002.jpg,.jpg
-frp,blur_focus_003.jpg,.jpg
-frp,blur_noise_001.jpg,.jpg
-frp,blur_sport_001.jpg,.jpg
-frp,blur_sport_002.jpg,.jpg
-frp,blur_sport_003.jpg,.jpg
-frp,common_exposure_001.jpg,.jpg
-frp,dbImage.jpg,.jpg
-frp,dozens faces_big.jpg,.jpg
-frp,dozens faces_big_2000.jpg,.jpg
-frp,dozens faces_big_4094.jpg,.jpg
-frp,dozens faces_big_crop.jpg,.jpg
-frp,dozens faces_big_crop2000.jpg,.jpg
-frp,dozens faces_big_crop3000.jpg,.jpg
-frp,dozens faces_big_morecrop.jpg,.jpg
-frp,dozens faces_big_morecrop2000.jpg,.jpg
-frp,eye_closed_001.jpg,.jpg
-frp,eye_opened_001.jpg,.jpg
-frp,graduateStudents_merge_best.jpg,.jpg
-frp,graduateStudents_merge_Morethan240.jpg,.jpg
-frp,high_exposure_001.jpg,.jpg
-frp,high_exposure_002.jpg,.jpg
-frp,liveImage1.jpg,.jpg
-frp,liveImage2.jpg,.jpg
-frp,lnd_001.jpg,.jpg
-frp,low_exposure_001.jpg,.jpg
-frp,low_exposure_002.jpg,.jpg
-frp,middle_exposure_001.jpg,.jpg
-frp,one_person_001.jpg,.jpg
-frp,open_big_mouth_001.jpg,.jpg
-frp,open_middle_mouth_001.jpg,.jpg
-frp,open_minor_mouth_001.jpg,.jpg
-frp,photo_with_32 faces_1500.jpg,.jpg
-frp,photo_with_32 faces_2000.jpg,.jpg
-frp,photo_with_32 faces_3200.jpg,.jpg
-frp,photo_with_32 faces_4000.jpg,.jpg
-frp,photo_with_32 faces_crop.jpg,.jpg
-frp,photo_with_32 faces_crop2000.jpg,.jpg
-frp,photo_with_32 faces_crop3000.jpg,.jpg
-frp,photo_with_32 faces_little.jpg,.jpg
-frp,photo_with_32 faces_moreCrop3000.jpg,.jpg
-frp,photo_with_32 faces_original.jpg,.jpg
-frp,photo_with_32 faces_resize.jpg,.jpg
-frp,pose_pitch_large_001.jpg,.jpg
-frp,pose_pitch_middle_001.jpg,.jpg
-frp,pose_pitch_minor_001.jpg,.jpg
-frp,pose_roll_large_001.jpg,.jpg
-frp,pose_roll_middle_001.jpg,.jpg
-frp,pose_roll_minor_001.jpg,.jpg
-frp,pose_yaw_large_001.jpg,.jpg
-frp,pose_yaw_middle_001.jpg,.jpg
-frp,pose_yaw_minor_001.jpg,.jpg
-frp,rotate_00_001.jpg,.jpg
-frp,rotate_20_001.jpg,.jpg
-frp,rotate_30_001.jpg,.jpg
-frp,rotate_44_001.jpg,.jpg
-frp,rotate_45_001.jpg,.jpg
-frp,scenery_001.jpg,.jpg
-frp,sean_frontal_001.jpg,.jpg
-frp,standard_mask_001.jpg,.jpg
-frp,sunglass_001.jpg,.jpg
-frp,thirteen_persons_001.jpg,.jpg
-frp,three_persons_001.png,.png
-frp,tom_frontal_001.jpg,.jpg
-frp,tom_frontal_002.jpg,.jpg
-frp,tom_pitch_001.jpg,.jpg
-frp,tom_roll_001.jpg,.jpg
-frp,tom_roll_002.jpg,.jpg
-frp,tom_yaw_001.jpg,.jpg
-frp,twelve_persons_001.jpg,.jpg
-frp\Videos,4k.mp4,.mp4
-frp\Videos,D415_win7_one_fake_person.bag,.bag
-frp\Videos,D415_win7_one_real_person.bag,.bag
-frp\Videos,Double_IR.mp4,.mp4
-frp\Videos,Double_RGB.mp4,.mp4
-frp\Videos,IR_one_real_person.avi,.avi
-frp\Videos,IR_real_fake_persons.avi,.avi
-frp\Videos,office.mp4,.mp4
-frp\Videos,office_building_gate_5s.mp4,.mp4
-frp\Videos,Renning.mp4,.mp4
-frp\Videos,Tom.mp4,.mp4
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-IdcProblems-L2.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-L2.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-invalid-xml-characters-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-only-type-1-present-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-reserved-character-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-reserved-characters-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-1-mandatory-only-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-1-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-10-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-10-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-13-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-13-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-14-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-14-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-15-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-15-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-L2.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-4-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-all-supported-types-utf8-L1&L2.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-1-mandatory-only-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-1-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-10-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-10-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-13-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-13-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-14-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-14-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-15-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-15-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-17-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-17-utf8-mandatory-only-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-4-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,warning-all-types-utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,warning_10_022_and_4_008_legacy_utf8-L1.xml,.xml
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-9-missing-EFS-fields.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-deprecated-records.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-missing-info-items.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-wrong-record-number.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-smt-combined-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-smt-combined-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-13-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-13-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-14-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-14-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-15-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-15-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-17-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-17-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-4-L1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-4-L2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail_IDC_Sequential_Tests.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types-with-2.003-udf-with-sf.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types-with-2.003-udf.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1-long-fieldnumber.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1-mandatory-only.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-14-17-piv-index-iris-replacedCorruptImages_fixedAspectRatio.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-14-17-piv-index-iris.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-branded-tattoo-mark-reserved-fields-removedReserved.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-branded-tattoo-mark.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face-mandatory-only.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face-smt-combined.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-Ncic-2007-unique-addedRequiredInfoItems.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-sap10-AddJpegWithJfif.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-sap10.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-scar-face-sap50-addedRequiredInfoItems.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-scar-face-sap50.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-smt-mandatory-only.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-smt.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-face-sap20.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-zoom-SyncValuesForMatchingIDCValues.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-zoom.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-14-latent-match.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-mandatory-only.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-tip-eji-j2l-replaced-wsq-with-png.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-tip-eji-j2l.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-with-some-type-14-fields.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-amp-nqm-utf8-updatedWsqVersion.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-amp-nqm-utf8.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-aseg-duplicate-removedDuplicateAndupdatedWsqVersion.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-aseg-updatedWsqVersion.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-fld21.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-mandatory-only.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-tip-eji-j2l.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-tpcard-nqm.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15-mandatory-only.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15-palms.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-21.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-diameter-removedJpeg.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-nojfif-removedJpeg.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-removedJpeg.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-updatedPixelDensity.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf1-max.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf1-min.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf2-max.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf3-max.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf7-max.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-mandatory-only.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-18-FSA.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-flats.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-slaps-updatedWsqVersion.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tip-eji-j2l-updatedDfp.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tip-eji-wsq-updatedDfpAndWsqVersion.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tpcard-nqm-updatedWsqVersion.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-flats.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-slaps-legacy-gca-updatedWsqVersionAndMadeNonLegacy2.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-tpcard-updatedWsqVersion.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-tpcard.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-7-latent.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-8-sig-fax.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-8-sig-raw.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-10-14-fbi.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-10-14.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-13-9-14-m1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-13-m1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-14-m1.an2,.an2
-nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-4-iafis.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,AllFields.xml,.xml
-nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011 - Vince example.xml,.xml
-nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011-transitional.xml,.xml
-nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011.xml,.xml
-nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,pass-all-supported-types-utf8-L1&L2.xml,.xml
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-1.006-invalid-value.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-1.018-invalid-value.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-last-record-idc-mismatch-value-found-in-1.003.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-level1.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-long-data.nist,.nist
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-all-supported-types.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-10-face-smt-combined.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-18-FSA.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-13-9-14-m1.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-13-m1.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-14-m1.an2,.an2
-nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,warning-ctrl-characters-.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,README.pdf,.pdf
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-14-17-piv-index-iris.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-branded-tattoo-mark.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-sap10.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-scar-face-sap50.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-tattoo-face-sap20.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-tattoo-zoom.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-14-latent-match.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-tip-eji-j2l.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-tip-eji-wsq.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-amp-nqm-utf8.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tip-eji-j2l.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tip-eji-wsq.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tpcard-nqm.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-15-palms.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-17-iris.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-3.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-14-slaps.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-slaps.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-tpcard.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-5.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-6.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-7-latent.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-fax.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-fax.an2_image_with_metadata.png,.png
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-raw.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-raw.an2_image_with_metadata.png,.png
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-10-14.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-9-14-m1.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-m1.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-std.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-14-m1.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-14-std.an2,.an2
-nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-4-iafis.an2,.an2
-nist-tests-extension-data\francois,LS003C1908200005_2.tdf,.tdf
-nist-tests-extension-data\francois,pass-all-supported-types.nst,.nst
-nist-tests-extension-data\from_alvaro_de_la_cruz,BM00193265-subj.nist.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,CGTO009907F-subj.nist_T.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,FBT00002584.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,FIDN-Blank.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,FIDN-MULTI.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,Finger-ENR-Diff-Fing.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,Finger-Roll-Flat-Palm-Face-Iris-IDN_AUTOTEST.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,PO2FD.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,TENR_wronggender.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,TIDN_poor1_2.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,TQSL.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,TSRCH-m.tdf,.tdf
-nist-tests-extension-data\from_alvaro_de_la_cruz,Wrong_flow_tcn_100.tdf,.tdf
-nist-tests-extension-data\from_pete,New Example Nist File_no Type 20.tdf,.tdf
-nist-tests-extension-data\malta_project,INTERPOL-CustomDemographics-FieldDefinition.xml,.xml
-nist-tests-extension-data\malta_project,Malta-crimi.ref,.ref
-nist-tests-extension-data\malta_project,Malta-crimi.tdf,.tdf
-nist-tests-extension-data\malta_project,Malta-criminal-sent.ref,.ref
-nist-tests-extension-data\malta_project,Malta-criminal-sent.tdf,.tdf
-nist-tests-extension-data\malta_project,Malta-elimination-sent.ref,.ref
-nist-tests-extension-data\malta_project,Malta-elimination-sent.tdf,.tdf
-nist-tests-extension-data\malta_project,Malta-unidentified-sent.ref,.ref
-nist-tests-extension-data\malta_project,Malta-unidentified-sent.tdf,.tdf
-nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.ref,.ref
-nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.tdf,.tdf
+Relative Path,File Name,File Extension,File Size
+common,1.data,.data,110000
+common,11-58806.data,.data,844800
+common,11.data,.data,844800
+common,12-54566.data,.data,844800
+common,12.data,.data,844800
+common,123456789987654123123456789987654321.data,.data,844800
+common,14-62859.data,.data,844800
+common,14.data,.data,844800
+common,15-42991.data,.data,844800
+common,15.data,.data,844800
+common,17_face.data,.data,844800
+common,1_1.bmp,.bmp,225078
+common,1_1.data,.data,224000
+common,1_1_scaled_1000_to_500.data,.data,56000
+common,1_1_scaled_500_to_600.data,.data,322560
+common,2.data,.data,844800
+common,2XS2001L02.data,.data,1228800
+common,2_1.bmp,.bmp,225078
+common,2_1.data,.data,224000
+common,2_180.data,.data,844800
+common,3-93453.data,.data,844800
+common,32_faces.data,.data,2169600
+common,32_faces_399by527.data,.data,841092
+common,32_faces_400by528.data,.data,844800
+common,33_faces.data,.data,2169600
+common,3_1.bmp,.bmp,225078
+common,3_1.data,.data,224000
+common,3_1_threshold_48.cfd,.cfd,144
+common,3_rotate90.data,.data,844800
+common,4-33898.data,.data,844800
+common,4.data,.data,844800
+common,4Slap_Left.data,.data,60060
+common,4Slap_Right.data,.data,120120
+common,4_1.bmp,.bmp,225078
+common,4_1.data,.data,224000
+common,4_rotate270.data,.data,844800
+common,5-66651.data,.data,844800
+common,5.data,.data,844800
+common,5_1.bmp,.bmp,225078
+common,5_1.data,.data,224000
+common,7-98707.data,.data,844800
+common,7.data,.data,844800
+common,8-68682.data,.data,844800
+common,8.data,.data,844800
+common,8face.data,.data,844800
+common,9_faces.data,.data,844800
+common,AESDBFace_test,-,20480
+common,AESFacetest,-,20480
+common,bigSize1500x1200.wsq,.wsq,82189
+common,childISO.data,.data,906400
+common,Clean1upEnc,-,12288
+common,closed_eyes.data,.data,314908
+common,closed_right_eye.data,.data,640000
+common,corruptDBFace,-,20480
+common,eye1.data,.data,307200
+common,eye10.data,.data,307200
+common,eye2.data,.data,307200
+common,eye3.data,.data,307200
+common,eye4.data,.data,307200
+common,eye5.data,.data,307200
+common,eye6.data,.data,307200
+common,eye7.data,.data,307200
+common,eye8.data,.data,307200
+common,eye9.data,.data,307200
+common,face1.data,.data,844800
+common,face1.yuv,.yuv,316800
+common,face1_180.yuv,.yuv,316800
+common,face1_270.yuv,.yuv,316800
+common,face1_90.yuv,.yuv,316800
+common,face1_test_db,-,12288
+common,faceDBEncAES,-,12288
+common,faceDBEncAES256,-,47157248
+common,faceDBEncChachaa,-,12288
+common,faceDBEnChacha256,-,47157248
+common,faceISO.data,.data,630000
+common,face_11.data,.data,4194304
+common,face_22.data,.data,4194304
+common,face_33.data,.data,4194304
+common,face_db_cleanup,-,12288
+common,Face_eyes_closed.data,.data,525576
+common,face_test_db,-,47157248
+common,finger1.data,.data,110000
+common,finger1.wsq,.wsq,10536
+common,finger10.data,.data,110000
+common,finger11.data,.data,110000
+common,finger180.data,.data,110000
+common,finger2.data,.data,110000
+common,finger3.data,.data,110000
+common,finger4.data,.data,110000
+common,finger5.data,.data,110000
+common,finger6.data,.data,110000
+common,finger7.data,.data,110000
+common,finger8.data,.data,110000
+common,finger9.data,.data,110000
+common,fingerAEE,-,16384
+common,fingerchachaCorruptF,-,16384
+common,fingerDBEncAES,-,12288
+common,fingerDBEncChacha,-,12288
+common,fingert_db_CleanUp,-,12288
+common,finger_180.data,.data,110000
+common,fingetestdb,-,16384
+common,FVC2000_Db1_100_1.raw,.raw,90000
+common,FVC2000_Db1_100_2.raw,.raw,90000
+common,FVC2000_Db1_100_3.raw,.raw,90000
+common,FVC2000_Db1_100_4.raw,.raw,90000
+common,FVC2000_Db1_100_5.raw,.raw,90000
+common,FVC2000_Db1_100_6.raw,.raw,90000
+common,FVC2000_Db1_100_7.raw,.raw,90000
+common,FVC2000_Db1_100_8.raw,.raw,90000
+common,head-tilt.data,.data,708708
+common,iris1.raw,.raw,76800
+common,iris2.raw,.raw,76800
+common,iris3.raw,.raw,76800
+common,irisBoth.raw,.raw,384000
+common,irisISO.raw,.raw,307200
+common,iris_image.data,.data,1764000
+common,katt-williams-head-tilted.data,.data,1440000
+common,left_4_slap_missing_middle.data,.data,1500000
+common,manifest.mf,.mf,85
+common,mouthOpen.data,.data,1108536
+common,nfiq_rolledImg.wsq,.wsq,20500
+common,No_Left_eye.data,.data,251535
+common,Obama_closed_right_eye.data,.data,234630
+common,right_4_slap.data,.data,1500000
+common,right_4_slap_missing_index.data,.data,1500000
+common,right_4_slap_missing_little.data,.data,1500000
+common,right_4_slap_missing_middle.data,.data,1500000
+common,right_4_slap_missing_ring.data,.data,1500000
+common,Sunglases.data,.data,201600
+common,testWSQ.wsq,.wsq,1024
+common,testWSQIn.data,.data,4096
+common,testWSQOut.data,.data,4096
+common,testWSQ_HighBitRateAndComment.wsq,.wsq,1580
+common,thumb_2_slap.data,.data,1500000
+common,thumb_2_slap_missing_left.data,.data,1500000
+common,thumb_2_slap_missing_right.data,.data,1500000
+common,tiltedface.data,.data,3840000
+common\face_crop\input,3_faces.data,.data,499500
+common\face_crop\input,3_faces.png,.png,337712
+common\face_crop\input,blankwhite.data,.data,852612
+common\face_crop\input,blankwhite.jpg,.jpg,5359
+common\face_crop\input,handsome-man-wearing-glasses-high-res.data,.data,3810240
+common\face_crop\input,handsome-man-wearing-glasses-high-res.jpg,.jpg,95805
+common\face_crop\input,man_with_glasses.data,.data,993000
+common\face_crop\input,man_with_glasses.jpg,.jpg,88129
+common\face_crop\input,woman_11.bmp,.bmp,840762
+common\face_crop\input,woman_11.data,.data,838971
+common\face_crop\input,woman_1_2.bmp,.bmp,351702
+common\face_crop\input,woman_1_2.data,.data,351054
+common\face_crop\ref,handsome-man-wearing-glasses-high-res-240.jpg,.jpg,30421
+common\face_crop\ref,handsome-man-wearing-glasses-high-res-480.jpg,.jpg,90689
+common\face_crop\ref,handsome-man-wearing-glasses-high-res-720.jpg,.jpg,165718
+common\face_crop\ref,man_with_glasses-240.jpg,.jpg,26158
+common\face_crop\ref,woman_11-240.bmp,.bmp,230454
+common\face_crop\ref,woman_1_2-240.bmp,.bmp,230454
+common\image\face,8face.jp2,.jp2,248512
+common\image\face,9_faces.jp2,.jp2,254567
+common\image\face,closed_eyes_BGR.bmp,.bmp,394954
+common\image\face,closed_eyes_BGR.data,.data,394182
+common\image\face,face1.data,.data,844800
+common\image\face,face1.jp2,.jp2,132371
+common\image\face,face1_BGR.data,.data,633600
+common\image\face,face1_BGR.jp2,.jp2,132371
+common\image\face,face3.jpg,.jpg,30607
+common\image\finger,left_4_slap_missing_middle.data,.data,1500000
+common\image\finger,left_4_slap_missing_middle_GS.jp2,.jp2,318328
+common\image\finger,left_4_slap_missing_middle_GS.jpg,.jpg,290811
+common\image\finger,right_4_slap.data,.data,1500000
+common\image\finger,right_4_slap_GS.data,.data,1500000
+common\image\finger,right_4_slap_GS.jpg,.jpg,395446
+common\image\finger,thumb_2_slap.data,.data,1500000
+common\image\finger,thumb_2_slap_GS.data,.data,1500000
+common\image\finger,thumb_2_slap_GS.png,.png,169291
+common\image\iris,irisBoth_BGR.jp2,.jp2,114033
+common\ISOEncodeDecode,0000_000.jp2,.jp2,15307
+common\ISOEncodeDecode,0000_000.jp2.bdb,.bdb,15375
+common\ISOEncodeDecode,0000_000.png,.png,268440
+common\ISOEncodeDecode,0000_000.png.bdb,.bdb,268508
+common\ISOEncodeDecode,0000_001.png,.png,277535
+common\ISOEncodeDecode,0001_L_0001.BDB,.BDB,1178064
+common\ISOEncodeDecode,0001_L_0001.jpg,.jpg,263717
+common\ISOEncodeDecode,0001_R_0001.BDB,.BDB,1028345
+common\ISOEncodeDecode,0001_R_0001.jpg,.jpg,234658
+common\ISOEncodeDecode,1_1.jp2,.jp2,11021
+common\ISOEncodeDecode,1_1.jp2.bdb,.bdb,11078
+common\ISOEncodeDecode,1_1.jp2.corrupt,.corrupt,164
+common\ISOEncodeDecode,1_1.jpg,.jpg,131049
+common\ISOEncodeDecode,1_1.jpg.bdb,.bdb,131106
+common\ISOEncodeDecode,1_1.jpg.corrupt,.corrupt,185
+common\ISOEncodeDecode,1_1.png,.png,139416
+common\ISOEncodeDecode,1_1.png.bdb,.bdb,139473
+common\ISOEncodeDecode,1_1.png.corrupt,.corrupt,192
+common\ISOEncodeDecode,face_01.j2k,.j2k,40292
+common\ISOEncodeDecode,face_01.j2k.bdb,.bdb,40360
+common\ISOEncodeDecode,face_01.jpg,.jpg,44782
+common\ISOEncodeDecode,face_01.jpg.bdb,.bdb,44850
+common\ISOEncodeDecode,face_01.png,.png,224587
+common\ISOEncodeDecode,face_01.png.bdb,.bdb,224655
+common\ISOEncodeDecode,face_02.jpg,.jpg,46133
+common\ISOEncodeDecode,face_02.jpg.bdb,.bdb,46201
+common\ISOEncodeDecode,nfiq_good.BDB,.BDB,37000
+common\ISOEncodeDecode,nfiq_good.wsq,.wsq,36943
+common\ISOEncodeDecode,nfiq_good.wsq.corrupt,.corrupt,176
+common\ISOEncodeDecode,nfiq_poor.bdb,.bdb,37308
+common\ISOEncodeDecode,nfiq_poor.wsq,.wsq,37251
+common\nist,ansi378.fmrpiv,.fmrpiv,1176
+common\nist,ansi378Fingers10.fmr,.fmr,3188
+common\nist,bad_config.txt,.txt,3096
+common\nist,face.j2k,.j2k,114697
+common\nist,face.jpg,.jpg,64881
+common\nist,fingerprint.wsq,.wsq,23906
+common\nist,minutiae.mnt,.mnt,3072
+common\nist\references,long_string.nist,.nist,1000042
+common\nist\references,refAnsi378Fingers10.nist,.nist,10994
+common\nist\references,refCustomIndex.nist,.nist,117
+common\nist\references,refFileAutoAndCustomIDC.nist,.nist,183
+common\nist\references,refFileCreationAutoIDC.nist,.nist,150
+common\nist\references,refFileCreationDisableAutoIDC1.nist,.nist,152
+common\nist\references,refFileCreationDisableAutoIDC2.nist,.nist,39
+common\nist\references,refFileCustomFieldNumber1.nist,.nist,80
+common\nist\references,refFileCustomFieldNumber1_MissingRecord10.nist,.nist,30
+common\nist\references,refFileCustomFieldNumber2.nist,.nist,139
+common\nist\references,refFullFile.nist,.nist,118419
+common\nist\references,refJ2K.nist,.nist,115035
+common\nist\references,refRec14EmptyImage.nist,.nist,272
+common\nist\references,TX12345678.nist,.nist,118761
+common\nist\special-files,NewlineRecord.tdf,.tdf,134358
+common\nist\special-files,NewlineRecord.text,.text,3491
+common\nist\threads,fingerprint_000.wsq,.wsq,23906
+common\nist\threads,fingerprint_001.wsq,.wsq,23906
+common\nist\threads,fingerprint_002.wsq,.wsq,82189
+common\nist\threads,fingerprint_003.wsq,.wsq,15748
+common\nist\threads,fingerprint_004.wsq,.wsq,63470
+common\nist\threads,fingerprint_005.wsq,.wsq,66283
+common\nist\threads,fingerprint_006.wsq,.wsq,17669
+common\nist\threads,fingerprint_007.wsq,.wsq,19020
+common\nist\threads,fingerprint_008.wsq,.wsq,21812
+common\nist\threads,photo_000.jpg,.jpg,64881
+common\nist\threads,photo_001.jpg,.jpg,71841
+common\nist\threads,photo_002.jpg,.jpg,64360
+common\nist\threads,photo_003.jpg,.jpg,60440
+common\tmpl_ANSI,1_1.cfd,.cfd,350
+common\tmpl_ANSI,2_1.cfd,.cfd,254
+common\tmpl_ANSI,3_1.cfd,.cfd,554
+common\tmpl_ANSI,4_1.cfd,.cfd,398
+common\tmpl_ANSI,5_1.cfd,.cfd,476
+common\tmpl_ISO,1_1.cfd,.cfd,348
+common\tmpl_ISO,2_1.cfd,.cfd,252
+common\tmpl_ISO,3_1.cfd,.cfd,552
+common\tmpl_ISO,4_1.cfd,.cfd,396
+common\tmpl_ISO,5_1.cfd,.cfd,474
+common\tmpl_ISOCC,1_1.cfd,.cfd,159
+common\tmpl_ISOCC,2_1.cfd,.cfd,111
+common\tmpl_ISOCC,3_1.cfd,.cfd,261
+common\tmpl_ISOCC,4_1.cfd,.cfd,183
+common\tmpl_ISOCC,5_1.cfd,.cfd,222
+common\tmpl_US,1_1_ANSI_MAX_20.cfd,.cfd,152
+common\tmpl_US,1_1_ISOCC.cfd,.cfd,93
+common\tmpl_US,1_1_ISOCC_MAX_20.cfd,.cfd,60
+common\tmpl_US,2_1_ANSI_MAX_20.cfd,.cfd,152
+common\tmpl_US,2_1_ISOCC.cfd,.cfd,129
+common\tmpl_US,2_1_ISOCC_MAX_20.cfd,.cfd,60
+common\tmpl_US,3_1_ANSI_MAX_20.cfd,.cfd,152
+common\tmpl_US,3_1_ISOCC.cfd,.cfd,189
+common\tmpl_US,3_1_ISOCC_MAX_20.cfd,.cfd,60
+common\tmpl_US\linux,1_1_ANSI.cfd,.cfd,218
+common\tmpl_US\linux,1_1_ISO.cfd,.cfd,216
+common\tmpl_US\linux,2_1_ANSI.cfd,.cfd,290
+common\tmpl_US\linux,2_1_ISO.cfd,.cfd,288
+common\tmpl_US\linux,3_1_ANSI.cfd,.cfd,410
+common\tmpl_US\linux,3_1_ISO.cfd,.cfd,408
+common\tmpl_US\windows,1_1_ANSI.cfd,.cfd,218
+common\tmpl_US\windows,1_1_ISO.cfd,.cfd,216
+common\tmpl_US\windows,2_1_ANSI.cfd,.cfd,290
+common\tmpl_US\windows,2_1_ISO.cfd,.cfd,288
+common\tmpl_US\windows,3_1_ANSI.cfd,.cfd,410
+common\tmpl_US\windows,3_1_ISO.cfd,.cfd,408
+face,faceQualityCfg.json,.json,10516
+face,gpuCfg.json,.json,16
+face\image,0000000018078471_X11A.data,.data,500202
+face\image,11.data,.data,838971
+face\image,12.data,.data,508500
+face\image,13.data,.data,775614
+face\image,14.data,.data,3218436
+face\image,144.data,.data,924336
+face\image,15.data,.data,1368000
+face\image,17.data,.data,806400
+face\image,1_2.data,.data,351054
+face\image,1_3.data,.data,778713
+face\image,1_4.data,.data,387900
+face\image,1_5.data,.data,471375
+face\image,1_6.data,.data,766800
+face\image,1_7.data,.data,2332800
+face\image,1_8.data,.data,458865
+face\image,1_9.data,.data,1244160
+face\image,1_gallery.data,.data,1244160
+face\image,1_probe.data,.data,1244160
+face\image,21.data,.data,1185696
+face\image,3.data,.data,499500
+face\image,33.data,.data,487494
+face\image,48.data,.data,810000
+face\image,4_1.data,.data,1887144
+face\image,5_1.data,.data,4500000
+face\image,6.data,.data,499500
+face\image,6ren.data,.data,750000
+face\image,6_1.data,.data,2685600
+face\image,8.data,.data,516420
+face\image,b2.data,.data,1510200
+face\image,baby_4.data,.data,819840
+face\image,black_white.data,.data,523500
+face\image,busy_background_false.data,.data,185460
+face\image,b_ears_not_obscured_by_hair_false.data,.data,1653912
+face\image,b_ears_not_obscured_by_hair_true.data,.data,2014962
+face\image,b_eye_color_0_hair_color_0.data,.data,27677376
+face\image,b_eye_color_false.data,.data,2635446
+face\image,b_gray_scale_prof_false.data,.data,1204980
+face\image,b_hair_color_false.data,.data,1936704
+face\image,b_no_moustache_False.data,.data,2638149
+face\image,b_no_moustache_True.data,.data,1868508
+face\image,c15.data,.data,1228800
+face\image,cartoon_false.data,.data,343200
+face\image,chile.data,.data,633600
+face\image,chile_10081_1213-58666_passall_3.data,.data,633600
+face\image,contrast_6.data,.data,564000
+face\image,Contrast_False.data,.data,398775
+face\image,con_1.data,.data,480000
+face\image,Dozens_Faces_M.data,.data,13790160
+face\image,duoren_1.data,.data,1284720
+face\image,E3_S0_A1_4d_1_depth_91.raw,.raw,1843208
+face\image,exposure_false.data,.data,178524
+face\image,EyePatch_False.data,.data,270000
+face\image,eye_open_false.data,.data,842724
+face\image,eye_shadow_false.data,.data,921600
+face\image,Faceg.data,.data,633600
+face\image,Facep.data,.data,633600
+face\image,face_bad_quality_from_mosip.data,.data,230400
+face\image,flash_5.data,.data,1920000
+face\image,flash_reflection_false.data,.data,1248048
+face\image,frames_uncover_eyes_false.data,.data,2112000
+face\image,frontal_false.data,.data,331776
+face\image,GC_gallery.data,.data,290520
+face\image,GC_probe.data,.data,227520
+face\image,glasses_true.data,.data,187812
+face\image,Greyscale_False.data,.data,921600
+face\image,hair_cross_eye_false.data,.data,360000
+face\image,hat_true.data,.data,180180
+face\image,heavy_frames_false.data,.data,747000
+face\image,heying1.data,.data,5033952
+face\image,hotspot_false.data,.data,183612
+face\image,ID_00028_01.data,.data,2764800
+face\image,ID_00028_02.data,.data,2764800
+face\image,ID_00845_1.data,.data,2764800
+face\image,ID_00845_2.data,.data,2764800
+face\image,ID_00846_1.data,.data,2764800
+face\image,ID_00846_2.data,.data,2764800
+face\image,inked_false.data,.data,473634
+face\image,irisBoth.raw,.raw,384000
+face\image,light_false.data,.data,921600
+face\image,many_2.data,.data,607500
+face\image,mouth_close_false.data,.data,633600
+face\image,mult_face_013.data,.data,2359296
+face\image,n1.data,.data,562500
+face\image,o13.data,.data,4635408
+face\image,object_close_face_false.data,.data,4635408
+face\image,P1_gallery.data,.data,185745
+face\image,P1_probe.data,.data,1514400
+face\image,pixelation_false.data,.data,633600
+face\image,portCol00002.data,.data,144525
+face\image,pose_roll_large_001.data,.data,4665600
+face\image,RedEye_False.data,.data,278832
+face\image,right_4_slap.data,.data,1500000
+face\image,Right_ok.data,.data,120000
+face\image,Ripple_False.data,.data,144525
+face\image,rotate_44_001.data,.data,750000
+face\image,S027-01-t10_03.raw,.raw,2211840
+face\image,S145-01-t10_02.raw,.raw,2211840
+face\image,s19.data,.data,348000
+face\image,S272-02-t10_01.raw,.raw,2211840
+face\image,sdk7010_fakeface_13.bmp.data,.data,5292000
+face\image,sdk7010_fakeface_24.bmp.data,.data,2092032
+face\image,shadow_across_face_false.data,.data,4635408
+face\image,shadow_behind_head_false.data,.data,49152
+face\image,Sharp_false.data,.data,568806
+face\image,shoulder_true.data,.data,118125
+face\image,tenfaces.data,.data,2365605
+face\image,testFP_00032.bmp.data,.data,687600
+face\image,testFP_01261.data,.data,1125000
+face\image,testFP_01529.data,.data,2106000
+face\image,testFP_02432.data,.data,1810755
+face\image,tinted_glasses_false.data,.data,116412
+face\image,TX0000000009AGV1_X01A.data,.data,306360
+face\image,veil_false.data,.data,1687500
+face\image,with_hat_cover.data,.data,499500
+face\resources,faceQualityCfg.json,.json,10129
+face\resources,faceQualityCfg_csharp.json,.json,10184
+face\templates,1_2.cfd,.cfd,389
+face\templates,1_5.cfd,.cfd,389
+facepad,dependency.txt,.txt,227
+facepad,results.csv,.csv,5430
+facepad\image,Live_0001_DSC01500.jpg,.jpg,3806554
+facepad\image,Live_0001_DSC01500.jpg.data,.data,24883200
+facepad\image,Live_0566_DSC05154.jpg,.jpg,4059815
+facepad\image,Live_0566_DSC05154.jpg.data,.data,24883200
+facepad\image,Live_0980_DSC07377.jpg,.jpg,4417938
+facepad\image,Live_0980_DSC07377.jpg.data,.data,24883200
+facepad\image,Live_1209_DSC08974.jpg,.jpg,3926165
+facepad\image,Live_1209_DSC08974.jpg.data,.data,24883200
+facepad\image,Live_1397_DSC03501-3.jpg,.jpg,3844407
+facepad\image,Live_1397_DSC03501-3.jpg.data,.data,24883200
+facepad\image,Live_1484_DSC06217.jpg,.jpg,4237916
+facepad\image,Live_1484_DSC06217.jpg.data,.data,24883200
+facepad\image,Live_1487_DSC07768.jpg,.jpg,3095259
+facepad\image,Live_1487_DSC07768.jpg.data,.data,20982240
+facepad\image,Live_1501_DSC04910.jpg,.jpg,3676126
+facepad\image,Live_1501_DSC04910.jpg.data,.data,24883200
+facepad\image,Live_1510_DSC00001.jpg,.jpg,3781056
+facepad\image,Live_1510_DSC00001.jpg.data,.data,24883200
+facepad\image,Live_1514_DSC02053.jpg,.jpg,3403106
+facepad\image,Live_1514_DSC02053.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub10_cap1.mp4_img_0150.jpg,.jpg,921587
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub10_cap1.mp4_img_0150.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub1_cap1.mp4_img_0120.jpg,.jpg,815836
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub1_cap1.mp4_img_0120.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub4_cap2.mp4_img_0145.jpg,.jpg,1034885
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub4_cap2.mp4_img_0145.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub5_cap1.mp4_img_0120.jpg,.jpg,828272
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub5_cap1.mp4_img_0120.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub8_cap2.mp4_img_0030.jpg,.jpg,1013232
+facepad\image,Spoof_WEBCAM_pai10_080cm_sub8_cap2.mp4_img_0030.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai13_100cm_sub4_cap3.mp4_img_0090.jpg,.jpg,1467921
+facepad\image,Spoof_WEBCAM_pai13_100cm_sub4_cap3.mp4_img_0090.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai16_080cm_sub2_cap3.mp4_img_0120.jpg,.jpg,404163
+facepad\image,Spoof_WEBCAM_pai16_080cm_sub2_cap3.mp4_img_0120.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai16_080cm_sub3_cap3.mp4_img_0120.jpg,.jpg,415279
+facepad\image,Spoof_WEBCAM_pai16_080cm_sub3_cap3.mp4_img_0120.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai16_100cm_sub1_cap1.mp4_img_0060.jpg,.jpg,679482
+facepad\image,Spoof_WEBCAM_pai16_100cm_sub1_cap1.mp4_img_0060.jpg.data,.data,24883200
+facepad\image,Spoof_WEBCAM_pai19_080cm_sub3_cap3.mp4_img_0030.jpg,.jpg,380165
+facepad\image,Spoof_WEBCAM_pai19_080cm_sub3_cap3.mp4_img_0030.jpg.data,.data,24883200
+finger_perf_dbs,fingerEncryptionAES_100k.db,.db,821747712
+finger_perf_dbs,fingerEncryptionAES_10k.db,.db,82161664
+finger_perf_dbs,fingerEncryptionAES_50k.db,.db,410845184
+finger_perf_dbs,fingerEncryptionAES_5k.db,.db,41082880
+finger_perf_dbs,fingerEncryptionChacha_100k.db,.db,821747712
+finger_perf_dbs,fingerEncryptionChacha_10k.db,.db,82161664
+finger_perf_dbs,fingerEncryptionChacha_50k.db,.db,410845184
+finger_perf_dbs,fingerEncryptionCHACHA_5k.db,.db,41082880
+finger_perf_dbs,nonEnc_100k.db,.db,821747712
+finger_perf_dbs,nonEnc_10k.db,.db,82161664
+finger_perf_dbs,nonEnc_50k.db,.db,410845184
+finger_perf_dbs,nonEnc_5k.db,.db,41082880
+frp,blur_focus_001.jpg,.jpg,85152
+frp,blur_focus_002.jpg,.jpg,134033
+frp,blur_focus_003.jpg,.jpg,126886
+frp,blur_noise_001.jpg,.jpg,23116
+frp,blur_sport_001.jpg,.jpg,86422
+frp,blur_sport_002.jpg,.jpg,85427
+frp,blur_sport_003.jpg,.jpg,83595
+frp,common_exposure_001.jpg,.jpg,64369
+frp,dbImage.jpg,.jpg,176190
+frp,dozens faces_big.jpg,.jpg,15338269
+frp,dozens faces_big_2000.jpg,.jpg,1097769
+frp,dozens faces_big_4094.jpg,.jpg,2995045
+frp,dozens faces_big_crop.jpg,.jpg,1725692
+frp,dozens faces_big_crop2000.jpg,.jpg,944028
+frp,dozens faces_big_crop3000.jpg,.jpg,1725692
+frp,dozens faces_big_morecrop.jpg,.jpg,1258660
+frp,dozens faces_big_morecrop2000.jpg,.jpg,720629
+frp,eye_closed_001.jpg,.jpg,93755
+frp,eye_opened_001.jpg,.jpg,1061768
+frp,graduateStudents_merge_best.jpg,.jpg,1129251
+frp,graduateStudents_merge_Morethan240.jpg,.jpg,1061217
+frp,high_exposure_001.jpg,.jpg,72916
+frp,high_exposure_002.jpg,.jpg,58910
+frp,liveImage1.jpg,.jpg,34384
+frp,liveImage2.jpg,.jpg,77758
+frp,lnd_001.jpg,.jpg,11878
+frp,low_exposure_001.jpg,.jpg,54492
+frp,low_exposure_002.jpg,.jpg,47232
+frp,middle_exposure_001.jpg,.jpg,30369
+frp,one_person_001.jpg,.jpg,122553
+frp,open_big_mouth_001.jpg,.jpg,104675
+frp,open_middle_mouth_001.jpg,.jpg,110646
+frp,open_minor_mouth_001.jpg,.jpg,103998
+frp,photo_with_32 faces_1500.jpg,.jpg,539849
+frp,photo_with_32 faces_2000.jpg,.jpg,793819
+frp,photo_with_32 faces_3200.jpg,.jpg,1490377
+frp,photo_with_32 faces_4000.jpg,.jpg,2153562
+frp,photo_with_32 faces_crop.jpg,.jpg,1391217
+frp,photo_with_32 faces_crop2000.jpg,.jpg,684098
+frp,photo_with_32 faces_crop3000.jpg,.jpg,1174887
+frp,photo_with_32 faces_little.jpg,.jpg,2219643
+frp,photo_with_32 faces_moreCrop3000.jpg,.jpg,1108697
+frp,photo_with_32 faces_original.jpg,.jpg,5003797
+frp,photo_with_32 faces_resize.jpg,.jpg,893618
+frp,pose_pitch_large_001.jpg,.jpg,65418
+frp,pose_pitch_middle_001.jpg,.jpg,67312
+frp,pose_pitch_minor_001.jpg,.jpg,58566
+frp,pose_roll_large_001.jpg,.jpg,63623
+frp,pose_roll_middle_001.jpg,.jpg,93215
+frp,pose_roll_minor_001.jpg,.jpg,61411
+frp,pose_yaw_large_001.jpg,.jpg,67952
+frp,pose_yaw_middle_001.jpg,.jpg,66941
+frp,pose_yaw_minor_001.jpg,.jpg,65530
+frp,rotate_00_001.jpg,.jpg,23355
+frp,rotate_20_001.jpg,.jpg,23538
+frp,rotate_30_001.jpg,.jpg,23816
+frp,rotate_44_001.jpg,.jpg,23878
+frp,rotate_45_001.jpg,.jpg,19615
+frp,scenery_001.jpg,.jpg,1737768
+frp,sean_frontal_001.jpg,.jpg,40448
+frp,standard_mask_001.jpg,.jpg,324528
+frp,sunglass_001.jpg,.jpg,24581
+frp,thirteen_persons_001.jpg,.jpg,227002
+frp,three_persons_001.png,.png,383531
+frp,tom_frontal_001.jpg,.jpg,45373
+frp,tom_frontal_002.jpg,.jpg,38413
+frp,tom_pitch_001.jpg,.jpg,58566
+frp,tom_roll_001.jpg,.jpg,61411
+frp,tom_roll_002.jpg,.jpg,74036
+frp,tom_yaw_001.jpg,.jpg,66941
+frp,twelve_persons_001.jpg,.jpg,272650
+frp\Videos,4k.mp4,.mp4,14774770
+frp\Videos,D415_win7_one_fake_person.bag,.bag,147351495
+frp\Videos,D415_win7_one_real_person.bag,.bag,75100072
+frp\Videos,Double_IR.mp4,.mp4,1028213
+frp\Videos,Double_RGB.mp4,.mp4,1076487
+frp\Videos,IR_one_real_person.avi,.avi,13681152
+frp\Videos,IR_real_fake_persons.avi,.avi,13681152
+frp\Videos,office.mp4,.mp4,3322561
+frp\Videos,office_building_gate_5s.mp4,.mp4,12602743
+frp\Videos,Renning.mp4,.mp4,2529924
+frp\Videos,Tom.mp4,.mp4,3783207
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-IdcProblems-L2.xml,.xml,203821
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-L1.xml,.xml,202573
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-L2.xml,.xml,203868
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-invalid-xml-characters-utf8-L1.xml,.xml,665474
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-only-type-1-present-utf8-L1.xml,.xml,6367
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-reserved-character-utf8-L1.xml,.xml,5065
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-reserved-characters-utf8-L1.xml,.xml,5094
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-1-mandatory-only-utf8-L1.xml,.xml,5066
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-1-utf8-L1.xml,.xml,7946
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-10-utf8-L1.xml,.xml,49336
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-10-utf8-mandatory-only-L1.xml,.xml,12181
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-13-utf8-L1.xml,.xml,71014
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-13-utf8-mandatory-only-L1.xml,.xml,24350
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-14-utf8-L1.xml,.xml,57425
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-14-utf8-mandatory-only-L1.xml,.xml,28825
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-15-utf8-L1.xml,.xml,19022
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-15-utf8-mandatory-only-L1.xml,.xml,8436
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-L1.xml,.xml,30694
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-L2.xml,.xml,175501
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-mandatory-only-L1.xml,.xml,8307
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-4-utf8-L1.xml,.xml,9616
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-all-supported-types-utf8-L1&L2.xml,.xml,5748433
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-1-mandatory-only-utf8-L1.xml,.xml,5062
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-1-utf8-L1.xml,.xml,7920
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-10-utf8-L1.xml,.xml,155475
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-10-utf8-mandatory-only-L1.xml,.xml,120786
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-13-utf8-L1.xml,.xml,5337208
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-13-utf8-mandatory-only-L1.xml,.xml,4221926
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-14-utf8-L1.xml,.xml,259617
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-14-utf8-mandatory-only-L1.xml,.xml,157398
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-15-utf8-L1.xml,.xml,62536
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-15-utf8-mandatory-only-L1.xml,.xml,7584
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-17-utf8-L1.xml,.xml,175603
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-17-utf8-mandatory-only-L1.xml,.xml,6991
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-4-utf8-L1.xml,.xml,151949
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,warning-all-types-utf8-L1.xml,.xml,6223302
+nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,warning_10_022_and_4_008_legacy_utf8-L1.xml,.xml,513224
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-9-missing-EFS-fields.an2,.an2,1260019
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-L1.an2,.an2,427034
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-L2.an2,.an2,328659
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-deprecated-records.an2,.an2,135
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-missing-info-items.an2,.an2,244
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-L1.an2,.an2,275
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-L2.an2,.an2,276
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-wrong-record-number.an2,.an2,276
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-L2.an2,.an2,8264
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-smt-combined-L1.an2,.an2,227693
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-smt-combined-L2.an2,.an2,227686
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-13-L1.an2,.an2,6610
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-13-L2.an2,.an2,6607
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-14-L1.an2,.an2,50881
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-14-L2.an2,.an2,50894
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-15-L1.an2,.an2,50752
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-15-L2.an2,.an2,50730
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-17-L1.an2,.an2,107773
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-17-L2.an2,.an2,107740
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-4-L1.an2,.an2,104536
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-4-L2.an2,.an2,104536
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail_IDC_Sequential_Tests.an2,.an2,672819
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types-with-2.003-udf-with-sf.an2,.an2,1260149
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types-with-2.003-udf.an2,.an2,1260075
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types.an2,.an2,2207432
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1-long-fieldnumber.an2,.an2,290
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1-mandatory-only.an2,.an2,129
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1.an2,.an2,276
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-14-17-piv-index-iris-replacedCorruptImages_fixedAspectRatio.an2,.an2,288049
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-14-17-piv-index-iris.an2,.an2,607484
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-branded-tattoo-mark-reserved-fields-removedReserved.an2,.an2,20625
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-branded-tattoo-mark.an2,.an2,20625
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face-mandatory-only.an2,.an2,8367
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face-smt-combined.an2,.an2,227576
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face.an2,.an2,69830
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-Ncic-2007-unique-addedRequiredInfoItems.an2,.an2,16601579
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-sap10-AddJpegWithJfif.an2,.an2,68840
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-sap10.an2,.an2,359284
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-scar-face-sap50-addedRequiredInfoItems.an2,.an2,16601579
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-scar-face-sap50.an2,.an2,16601579
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-smt-mandatory-only.an2,.an2,8256
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-smt.an2,.an2,68356
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-face-sap20.an2,.an2,2898640
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-zoom-SyncValuesForMatchingIDCValues.an2,.an2,134989
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-zoom.an2,.an2,425658
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-14-latent-match.an2,.an2,1229352
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-mandatory-only.an2,.an2,46409
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-tip-eji-j2l-replaced-wsq-with-png.an2,.an2,2110947
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-tip-eji-j2l.an2,.an2,6353854
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-with-some-type-14-fields.an2,.an2,6862018
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13.an2,.an2,614931
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-amp-nqm-utf8-updatedWsqVersion.an2,.an2,247595
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-amp-nqm-utf8.an2,.an2,247595
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-aseg-duplicate-removedDuplicateAndupdatedWsqVersion.an2,.an2,247634
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-aseg-updatedWsqVersion.an2,.an2,247634
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-fld21.an2,.an2,50862
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-mandatory-only.an2,.an2,50667
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-tip-eji-j2l.an2,.an2,6353855
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-tpcard-nqm.an2,.an2,674974
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14.an2,.an2,50877
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15-mandatory-only.an2,.an2,50669
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15-palms.an2,.an2,2544507
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15.an2,.an2,50753
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-21.an2,.an2,8827876
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-diameter-removedJpeg.an2,.an2,107367
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-nojfif-removedJpeg.an2,.an2,107367
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-removedJpeg.an2,.an2,107356
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-updatedPixelDensity.an2,.an2,107356
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris.an2,.an2,107356
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf1-max.an2,.an2,108355
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf1-min.an2,.an2,107385
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf2-max.an2,.an2,207972
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf3-max.an2,.an2,78726
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf7-max.an2,.an2,49173
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-mandatory-only.an2,.an2,107380
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17.an2,.an2,107755
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-18-FSA.an2,.an2,279039
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-flats.an2,.an2,267509
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-slaps-updatedWsqVersion.an2,.an2,267473
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tip-eji-j2l-updatedDfp.an2,.an2,6353856
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tip-eji-wsq-updatedDfpAndWsqVersion.an2,.an2,205749
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tpcard-nqm-updatedWsqVersion.an2,.an2,674974
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-flats.an2,.an2,267390
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-slaps-legacy-gca-updatedWsqVersionAndMadeNonLegacy2.an2,.an2,267364
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-tpcard-updatedWsqVersion.an2,.an2,672821
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-tpcard.an2,.an2,672843
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4.an2,.an2,104536
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-7-latent.an2,.an2,614705
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-8-sig-fax.an2,.an2,667
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-8-sig-raw.an2,.an2,1724
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-10-14-fbi.an2,.an2,977339
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-10-14.an2,.an2,976947
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-13-9-14-m1.an2,.an2,1237862
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-13-m1.an2,.an2,619038
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-14-m1.an2,.an2,619040
+nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-4-iafis.an2,.an2,618561
+nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,AllFields.xml,.xml,378408
+nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011 - Vince example.xml,.xml,449658
+nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011-transitional.xml,.xml,122239
+nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011.xml,.xml,449658
+nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,pass-all-supported-types-utf8-L1&L2.xml,.xml,5787851
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-1.006-invalid-value.an2,.an2,1259753
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-1.018-invalid-value.an2,.an2,1259753
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-last-record-idc-mismatch-value-found-in-1.003.an2,.an2,1259753
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-level1.an2,.an2,1259757
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-long-data.nist,.nist,2296603
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-all-supported-types.an2,.an2,2296235
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-10-face-smt-combined.an2,.an2,1264853
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-18-FSA.an2,.an2,279039
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-13-9-14-m1.an2,.an2,1237862
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-13-m1.an2,.an2,619038
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-14-m1.an2,.an2,619040
+nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,warning-ctrl-characters-.an2,.an2,1264853
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,README.pdf,.pdf,19111
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-14-17-piv-index-iris.an2,.an2,389731
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-branded-tattoo-mark.an2,.an2,20631
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-sap10.an2,.an2,350296
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-scar-face-sap50.an2,.an2,16601588
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-tattoo-face-sap20.an2,.an2,2898646
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-tattoo-zoom.an2,.an2,425646
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-14-latent-match.an2,.an2,1229358
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-tip-eji-j2l.an2,.an2,6353881
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-tip-eji-wsq.an2,.an2,205769
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-amp-nqm-utf8.an2,.an2,247605
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tip-eji-j2l.an2,.an2,6353881
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tip-eji-wsq.an2,.an2,205769
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tpcard-nqm.an2,.an2,674994
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-15-palms.an2,.an2,2544513
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-17-iris.an2,.an2,107364
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-3.an2,.an2,151397
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-14-slaps.an2,.an2,267479
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-slaps.an2,.an2,267370
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-tpcard.an2,.an2,672832
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-5.an2,.an2,19421
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-6.an2,.an2,76197
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-7-latent.an2,.an2,614686
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-fax.an2,.an2,670
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-fax.an2_image_with_metadata.png,.png,39451
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-raw.an2,.an2,36227
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-raw.an2_image_with_metadata.png,.png,47049
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig.an2,.an2,48689
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-10-14.an2,.an2,968702
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-9-14-m1.an2,.an2,1240313
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-m1.an2,.an2,620264
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-std.an2,.an2,618622
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-14-m1.an2,.an2,620277
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-14-std.an2,.an2,618622
+nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-4-iafis.an2,.an2,618574
+nist-tests-extension-data\francois,LS003C1908200005_2.tdf,.tdf,2744537
+nist-tests-extension-data\francois,pass-all-supported-types.nst,.nst,2207432
+nist-tests-extension-data\from_alvaro_de_la_cruz,BM00193265-subj.nist.tdf,.tdf,9226573
+nist-tests-extension-data\from_alvaro_de_la_cruz,CGTO009907F-subj.nist_T.tdf,.tdf,578879
+nist-tests-extension-data\from_alvaro_de_la_cruz,FBT00002584.tdf,.tdf,2415665
+nist-tests-extension-data\from_alvaro_de_la_cruz,FIDN-Blank.tdf,.tdf,4917
+nist-tests-extension-data\from_alvaro_de_la_cruz,FIDN-MULTI.tdf,.tdf,141271
+nist-tests-extension-data\from_alvaro_de_la_cruz,Finger-ENR-Diff-Fing.tdf,.tdf,364896
+nist-tests-extension-data\from_alvaro_de_la_cruz,Finger-Roll-Flat-Palm-Face-Iris-IDN_AUTOTEST.tdf,.tdf,6947777
+nist-tests-extension-data\from_alvaro_de_la_cruz,PO2FD.tdf,.tdf,6469212
+nist-tests-extension-data\from_alvaro_de_la_cruz,TENR_wronggender.tdf,.tdf,391083
+nist-tests-extension-data\from_alvaro_de_la_cruz,TIDN_poor1_2.tdf,.tdf,592493
+nist-tests-extension-data\from_alvaro_de_la_cruz,TQSL.tdf,.tdf,391109
+nist-tests-extension-data\from_alvaro_de_la_cruz,TSRCH-m.tdf,.tdf,191
+nist-tests-extension-data\from_alvaro_de_la_cruz,Wrong_flow_tcn_100.tdf,.tdf,92727
+nist-tests-extension-data\from_pete,New Example Nist File_no Type 20.tdf,.tdf,1125107
+nist-tests-extension-data\malta_project,INTERPOL-CustomDemographics-FieldDefinition.xml,.xml,18936
+nist-tests-extension-data\malta_project,Malta-crimi.ref,.ref,1664853
+nist-tests-extension-data\malta_project,Malta-crimi.tdf,.tdf,1664842
+nist-tests-extension-data\malta_project,Malta-criminal-sent.ref,.ref,2601386
+nist-tests-extension-data\malta_project,Malta-criminal-sent.tdf,.tdf,2601442
+nist-tests-extension-data\malta_project,Malta-elimination-sent.ref,.ref,2502470
+nist-tests-extension-data\malta_project,Malta-elimination-sent.tdf,.tdf,2502459
+nist-tests-extension-data\malta_project,Malta-unidentified-sent.ref,.ref,2762442
+nist-tests-extension-data\malta_project,Malta-unidentified-sent.tdf,.tdf,2762460
+nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.ref,.ref,1226030
+nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.tdf,.tdf,1226070
