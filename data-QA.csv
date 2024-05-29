@@ -1,0 +1,1108 @@
+Relative Path,File Name,Extension,File Size (bytes),Package,Test,Dimensions (pixels),Colour,Cardinality,Subject,Fingerprint Type,Gender,Eyes,Mouth,Background,Facing,Rotation,Same subject,Same image as,Other,,,RGB_bytes_match,RGBA_bytes_match,BW_bytes_match,bytes_match,skip_bytes_checks
+\assets\common,1.data,.data,"110,000",N/F,N/F,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,11-58806.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Man,Open,Neutral,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,11.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Man,Open,Neutral,White,Front,,11-58806.data,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,12-54566.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,12.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,12-54566.data,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,123456789987654123123456789987654321.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,glasses,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,14-62859.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,14.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,14-62859.data,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,15-42991.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,hair pulled back,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,15.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,15-42991.data,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,17_face.data,.data,"844,800",N/F,N/F,400x528,RGBA,Multiple,Face,,Woman,Open,Smiling,White,Front,,,,collage - multiple copies of the same picture ,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,1_1.bmp,.bmp,"225,078",N/F,N/F,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,1_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateAnsi378,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,1_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyExtractTemplate,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,1_1.data,.data,"224,000",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyConvertResolution,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,1_1.data,.data,"224,000",com.gemalto.cogent.test.image,BitmapUtilTest.testConvertResolution,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,1_1.data,.data,"224,000",com.gemalto.cogent.test.image,BitmapUtilTest.testConvertResolutionInvalidArguments,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,1_1_scaled_1000_to_500.data,.data,"56,000",com.gemalto.cogent.test.image,BitmapUtilTest.testConvertResolution,200x280,BW,One,Fingerprint Scan,Arch,,,,,,,1_1.bmp,,1_1.data scaled down by half,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,1_1_scaled_500_to_600.data,.data,"322,560",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyConvertResolution,480x672,BW,One,Fingerprint Scan,Arch,,,,,,,1_1.bmp,,1_1.data scaled up by 1.2,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,1_1_scaled_500_to_600.data,.data,"322,560",com.gemalto.cogent.test.image,BitmapUtilTest.testConvertResolution,480x672,BW,One,Fingerprint Scan,Arch,,,,,,,1_1.bmp,,1_1.data scaled up by 1.2,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.benchmarktest.facelite,FaceBenchMarkTest.setUpClass,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceTemplateTest.setUpClass,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.setUpClass,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.testThreadSafetyExtractAndMatch,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.testThreadSafetySearch,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.finger,FingerTemplateTest.testAddingFingerDB,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.finger,FingerTemplateTest.testDeleteFromFingerDB,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetySearch,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.nist,TestFileCreation.testFullFileCreation,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.nist,TestFileCreation.testCreateRecordWithIDC,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.nist,TestFileParsing.testFileReadKnown,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.nist,TestFileParsing.testGetRecords,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.nist,TestFileParsing.testGetTextFields,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2.data,.data,"844,800",com.gemalto.cogent.test.nist,TestFileParsing.testFileReadWriteAllTypes,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,2XS2001L02.data,.data,"1,228,800",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,2_1.bmp,.bmp,"225,078",N/F,N/F,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateAnsi378NegativeMaxMinutiae,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateAnsi378MaxMinutiaeGreaterThan255,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateAnsi378MaxMinutiaeZero,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISO,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISONegativeMaxMinutiae,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOMaxMinutiaeGreaterThan255,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOMaxMinutiaeZero,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOCC,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOCCNegativeMaxMinutiae,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOCCMaxMinutiaeGreaterThan255,400x560,BW,One,Fingerprint Scan,Loop,,,,,,,,2_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,2_180.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,180,123456789987654123123456789987654321.data,,glasses,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,3-93453.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,32_faces.data,.data,"2,169,600",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,32_faces_399by527.data,.data,"841,092",N/F,N/F,399x527,RGBA,Multiple,Face,,,,,White,Front,,,,"croped version of 32_faces_400by528.data, some faces cut in half",,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,32_faces_400by528.data,.data,"844,800",N/F,N/F,800x264,RGBA,Multiple,Face,,,,,White,Front,,,,"collage of the faces from the same folder, pics in grid, repeating",,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,33_faces.data,.data,"2,169,600",N/F,N/F,904x600,RGBA,Multiple,Face,,,,,White,Front,,,,"croped version of 32_faces_400by528.data, some faces cut",,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,3_1.bmp,.bmp,"225,078",N/F,N/F,400x560,BW,One,Fingerprint Scan,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,3_1.data,.data,"224,000",com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOCCMaxMinutiae,400x560,BW,One,Fingerprint Scan,,,,,,,,,3_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,3_1_threshold_48.cfd,.cfd,144,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,3_rotate90.data,.data,"844,800",N/F,N/F,528x400,RGBA,One,Face,,Woman,Open,Neutral,White,Front,90,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,4-33898.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Man,Open,Neutral,White,Front,,,,young,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,4.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Man,Open,Neutral,White,Front,,4-33898.data,,young,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,4Slap_Left.data,.data,"60,060",N/F,N/F,308x195,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,,with text description,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,4Slap_Right.data,.data,"120,120",N/F,N/F,308x195,BW(16bit),Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,with text description,,,FALSE,FALSE,FALSE,FALSE,FALSE
+\assets\common,4_1.bmp,.bmp,"225,078",N/F,N/F,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,4_1.data,.data,"224,000",N/F,N/F,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,4_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,4_rotate270.data,.data,"844,800",N/F,N/F,528x400,RGBA,One,Face,,Man,Open,Neutral,White,Front,270,4-33898.data,,4.data rotated ,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,5-66651.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Man,Open,Neutral,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,5.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Man,Open,Neutral,White,Front,,5-66651.data,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,5_1.bmp,.bmp,"225,078",N/F,N/F,400x560,BW,One,Fingerprint Scan,Whorl,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,5_1.data,.data,"224,000",N/F,N/F,400x560,BW,One,Fingerprint Scan,Whorl,,,,,,,,5_1.bmp,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,7-98707.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,7.data,.data,"844,800",com.gemalto.cogent.test.nist,TestFileCreation.testFileCreationDisableAutoIDC1,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,7-98707.data,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,8-68682.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,8.data,.data,"844,800",N/F,N/F,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,,8-68682.data,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,8face.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testMaxFacesTracked,400x528,RGBA,Multiple,Face,,Woman,Open,Smiling,White,Front,,,,"collage, 8 copies of the same picture",,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,9_faces.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testExceedMaxFaceTrackedLimit,400x528,RGBA,Multiple,Face,,Woman,Open,Neutral,White,Front,,,,"collage 3x3, 9 copies of the same picture",,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,AESDBFace_test,-,"20,480",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,AESFacetest,-,"20,480",com.gemalto.cogent.test.facelite,DBFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,bigSize1500x1200.wsq,.wsq,"82,189",com.gemalto.cogent.test.image,BitmapUtilTest.testLargeWsqDecoding,1500x1200,BW,Multiple,Fingerprint Scan,,,,,,,,,,4 slap,,,,,,N/A,TRUE
+\assets\common,bigSize1500x1200.wsq,.wsq,"82,189",com.gemalto.cogent.test.image,BitmapUtilTest.testGetWSQImageFormat,1500x1200,BW,Multiple,Fingerprint Scan,,,,,,,,,,4 slap,,,,,,N/A,TRUE
+\assets\common,childISO.data,.data,"906,400",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testQualityCheckChild,412x550,RGBA,,,,,,,,,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,Clean1upEnc,-,"12,288",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,closed_eyes.data,.data,"314,908",N/F,N/F,748x421,BW,One,Face,,Woman,Closed,Neutral,White,Front,,,,"mouth slightly open, cloesup, top of head missing",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,closed_right_eye.data,.data,"640,000",N/F,N/F,800x800,BW,One,Face,,Woman,Right Closed,Smiling,Indoors,45° Right,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,corruptDBFace,-,"20,480",com.gemalto.cogent.test.facelite,DBFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisAPITest.testTrackResultsSingle,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisAPITest.testTrackMinRadius,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisAPITest.testTrackActualRadius,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisAPITest.testQualityCheckIris,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.setUpClass,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetyExtractAndMatch,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetyTrackResultsSingle,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye1.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetyQualityCheckIris,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye10.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye10.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye2.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye2.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye2.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.setUpClass,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye2.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetyExtractAndMatch,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye3.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye3.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye3.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.setUpClass,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye4.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye4.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisAPITest.testTrackResultsSingleFast,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye4.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye4.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.setUpClass,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye4.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetyTrackResultsSingleFast,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye5.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye5.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye6.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye6.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye7.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye7.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye8.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye8.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Right Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye9.data,.data,"307,200",com.gemalto.cogent.test.iris,DBIris,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,eye9.data,.data,"307,200",com.gemalto.cogent.test.iris,IrisTemplateTest.setUpClass,640x480,BW,One,Left Eye,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.benchmarktest.facelite,FaceBenchMarkTest.setUpClass,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,DBFace,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceBenchMarkDB,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testFaceTracking,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testAssessFace,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceTemplateTest.setUpClass,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceTemplateTest.testOneToOneMatching,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.setUpClass,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.testThreadSafetyExtractAndMatch,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.testThreadSafetyTrack,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.testThreadSafetyQualityCheck,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.facelite,FaceThreadSafetyTest.testThreadAssessFace,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.data,.data,"844,800",com.gemalto.cogent.test.face_image,NV21Test.setUpClass,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1.data,.data,"844,800",com.gemalto.cogent.test.image,BitmapUtilTest.testConvertResolutionInvalidArguments,400x528,RGBA,One,Face,,Woman,Open,Smiling,White,Front,,2.data,,old,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face1.yuv,.yuv,"316,800",com.gemalto.cogent.test.face_image,NV21Test.testNV21Conversion,400x528,RGB(NV21),One,Face,,Woman,Open,Smiling,White,Front,,2.data,\assets\common\face1.data,old,,,,,,N/A,TRUE
+\assets\common,face1_180.yuv,.yuv,"316,800",com.gemalto.cogent.test.face_image,NV21Test.testNV21Conversion,400x528,RGB(NV21),One,Face,,Woman,Open,Smiling,White,Front,180,2.data,,"old, rotated face1.yuv",,,,,,N/A,TRUE
+\assets\common,face1_270.yuv,.yuv,"316,800",com.gemalto.cogent.test.face_image,NV21Test.testNV21Conversion,528x400,RGB(NV21),One,Face,,Woman,Open,Smiling,White,Front,270,2.data,,"old, rotated face1.yuv",,,,,,N/A,TRUE
+\assets\common,face1_90.yuv,.yuv,"316,800",com.gemalto.cogent.test.face_image,NV21Test.testNV21Conversion,528x400,RGB(NV21),One,Face,,Woman,Open,Smiling,White,Front,90,2.data,,"old, rotated face1.yuv",,,,,,N/A,TRUE
+\assets\common,face1_test_db,-,"12,288",com.gemalto.cogent.test.facelite,NonEncryptedFaceDB.setUpClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,faceDBEncAES,-,"12,288",com.gemalto.cogent.test.facelite,EncryptedAESFaceDB.setUpClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,faceDBEncAES256,-,"47,157,248",com.gemalto.cogent.benchmarktest.facelite,EncryptedAESFaceBenchMark.setUpClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,faceDBEncChachaa,-,"12,288",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,faceDBEnChacha256,-,"47,157,248",com.gemalto.cogent.benchmarktest.facelite,EncryptedChachaFaceBenchMark.setUpClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,faceISO.data,.data,"630,000",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testQualityCheck,350x450,RGBA,One,Face,,Man,Open,Smiling,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face_11.data,.data,"4,194,304",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testAssessFace,1024x1024,RGBA,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,glasses,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face_22.data,.data,"4,194,304",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testAssessFace,1024x1024,RGBA,One,Face,,Woman,Open,Neutral,Indoors,45° Left,,,,looking sideways at camera,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face_33.data,.data,"4,194,304",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testAssessFace,1024x1024,RGBA,One,Face,,Man,Open,Smiling,Outdoors ,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face_db_cleanup,-,"12,288",com.gemalto.cogent.test.facelite,DBFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,face_db_cleanup,-,"12,288",com.gemalto.cogent.test.facelite,FaceTemplateTest.testCleanUp,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,Face_eyes_closed.data,.data,"525,576",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testNotISOCompliantQualityCheckEyesClosed,366x359,RGBA,One,Face,,Man,Closed,Smiling,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,face_test_db,-,"47,157,248",com.gemalto.cogent.benchmarktest.facelite,FaceBenchMarkTest.setUpClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,face_test_db,-,"47,157,248",com.gemalto.cogent.test.facelite,FaceTemplateTest.setUpClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,finger1.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger1.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger1.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger1.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger1.data,.data,"110,000",com.gemalto.cogent.test.image,BitmapUtilTest.testWsqDecodingFailure,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger1.wsq,.wsq,"10,536",N/F,N/F,500x500,BW,One,Fingerprint Scan,Loop,,,,,,,,,different finger than finger1.data,,,,,,N/A,TRUE
+\assets\common,finger10.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Arch,,,,,,,,,right thumb?,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger10.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Arch,,,,,,,,,right thumb?,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger10.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Arch,,,,,,,,,right thumb?,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger11.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,left thumb?,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger11.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,left thumb?,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger11.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,left thumb?,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger180.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Loop,,,,,,180,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger180.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Loop,,,,,,180,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger2.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,right index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger2.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,right index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger2.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,right index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger2.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,right index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger3.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger3.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger3.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger3.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger4.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger4.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger4.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger5.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,right middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger5.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,right middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger5.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,right middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger6.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger6.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger6.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,left middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger7.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,right little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger7.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,right little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger7.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,,,right little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger8.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,left ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger8.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,left ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger8.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Whorl,,,,,,,,,left ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger9.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Arch,,,,,,,,,right ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger9.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerAPITest.initializeFingerAPITemplate,275x400,BW,One,Fingerprint Digital,Arch,,,,,,,,,right ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger9.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Arch,,,,,,,,,right ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,fingerAEE,-,"16,384",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,fingerchachaCorruptF,-,"16,384",com.gemalto.cogent.test.finger,DBFingerPrint,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,fingerDBEncAES,-,"12,288",com.gemalto.cogent.test.finger,EncryptedAESFingerPrintDB.setUpClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,fingerDBEncChacha,-,"12,288",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,fingert_db_CleanUp,-,"12,288",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,finger_180.data,.data,"110,000",com.gemalto.cogent.test.finger,DBFingerPrint,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,finger180.data,,finger180.data right side up,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,finger_180.data,.data,"110,000",com.gemalto.cogent.test.finger,FingerTemplateTest.setUpClass,275x400,BW,One,Fingerprint Digital,Loop,,,,,,,finger180.data,,finger180.data right side up,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,fingetestdb,-,"16,384",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,FVC2000_Db1_100_1.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_1.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_1.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_1.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_2.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_2.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_2.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_2.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_3.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_3.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_3.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_3.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_4.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_4.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_5.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_5.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_6.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_6.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_7.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_7.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_8.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ1,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,FVC2000_Db1_100_8.raw,.raw,"90,000",com.gemalto.cogent.test.finger,FingerAPITest.testNFIQ2,300x300,BW,One,Fingerprint Scan,Arch,,,,,,,,,"section, low quality, high brightness",,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,head-tilt.data,.data,"708,708",N/F,N/F,429x413,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,head tilted 45 deg left,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,iris1.raw,.raw,"76,800",com.gemalto.cogent.test.face,FaceAPITest_NT.testLivenessSilentIncorrectImageParam,320x240,BW,One,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,iris2.raw,.raw,"76,800",N/F,N/F,320x240,BW,One,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,iris3.raw,.raw,"76,800",N/F,N/F,320x240,BW,One,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,irisBoth.raw,.raw,"384,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testLivenessSilentIncorrectlivenessParam,1600x240,BW,Multiple,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,irisBoth.raw,.raw,"384,000",com.gemalto.cogent.test.iris,IrisAPITest.testTrackResultsBoth,1600x240,BW,Multiple,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,irisBoth.raw,.raw,"384,000",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetyTrackResultsBoth,1600x240,BW,Multiple,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,irisISO.raw,.raw,"307,200",N/F,N/F,640x480,BW,One,Iris,,,,,,,,,,right eye,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,iris_image.data,.data,"1,764,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testLocationOnlyIris,1800x980,BW,One,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,iris_image.data,.data,"1,764,000",com.gemalto.cogent.test.iris,IrisAPITest.testTrackMaxRadius,1800x980,BW,One,Iris,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,katt-williams-head-tilted.data,.data,"1,440,000",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testNotISOCompliantQualityCheckTiltedFace,800x450,RGBA,One,Face,,Man,Open,Neutral,Outdoors ,Front,,,,"head tilted 45+ deg left, wearing beanie",,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,left_4_slap_missing_middle.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,,middle finger missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,left_4_slap_missing_middle.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,,middle finger missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,manifest.mf,.mf,85,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common,mouthOpen.data,.data,"1,108,536",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testNotISOCompliantQualityCheckMouthOpen,442x627,RGBA,One,Face,,Woman,Open,Mouth Open,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,nfiq_rolledImg.wsq,.wsq,"20,500",N/F,N/F,800x750,BW,One,Fingerprint Scan,,,,,,,,,,rolled,,,,,,N/A,TRUE
+\assets\common,No_Left_eye.data,.data,"251,535",com.gemalto.cogent.test.iris,IrisAPITest.testTrackResultsNoLeftEye,615x409,BW,One,Face,,Man,Open,Neutral,White,Front,,,,one eye missing - empty eye socket,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,Obama_closed_right_eye.data,.data,"234,630",com.gemalto.cogent.test.iris,IrisAPITest.testTrackResultsNoRightEye,594x395,BW,One,Face,,Man,Right Closed,Frowning,Indoors,Front,,,,obama winking,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testQualityCheckFingerInsteadFace,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testLocationFingerInsteadFace,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testFeatureExtractFingerInsteadFace,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testAttributeFingerInsteadFace,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifyFaceVsFinger,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerify1SampleNull,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_index.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_index.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing index,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_little.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_little.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing little,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_middle.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_middle.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing middle,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_ring.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,right_4_slap_missing_ring.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,missing ring,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,Sunglases.data,.data,"201,600",com.gemalto.cogent.test.facelite,FaceLiteAPITest.testNotISOCompliantQualityCheckSunGlasses,224x225,RGBA,One,Face,,Man,Sunglasses,Neutral,White,Front,,,,,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common,testWSQ.wsq,.wsq,"1,024",com.gemalto.cogent.test.image,BitmapUtilTest.testWsqEncoding,64x64,BW,,,,,,,,,,,,letter A with blurry background,,,,,,N/A,TRUE
+\assets\common,testWSQ.wsq,.wsq,"1,024",com.gemalto.cogent.test.image,BitmapUtilTest.testWsqDecoding,64x64,BW,,,,,,,,,,,,letter A with blurry background,,,,,,N/A,TRUE
+\assets\common,testWSQ.wsq,.wsq,"1,024",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyWsqEncoding,64x64,BW,,,,,,,,,,,,letter A with blurry background,,,,,,N/A,TRUE
+\assets\common,testWSQ.wsq,.wsq,"1,024",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyWsqDecoding,64x64,BW,,,,,,,,,,,,letter A with blurry background,,,,,,N/A,TRUE
+\assets\common,testWSQIn.data,.data,"4,096",com.gemalto.cogent.test.image,BitmapUtilTest.testWsqEncoding,64x64,BW,,,,,,,,,,,,letter A with white background,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,testWSQIn.data,.data,"4,096",com.gemalto.cogent.test.image,BitmapUtilTest.testWsqEncodingFailure,64x64,BW,,,,,,,,,,,,letter A with white background,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,testWSQIn.data,.data,"4,096",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyWsqEncoding,64x64,BW,,,,,,,,,,,,letter A with white background,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,testWSQOut.data,.data,"4,096",com.gemalto.cogent.test.image,BitmapUtilTest.testWsqDecoding,64x64,BW,,,,,,,,,,,,same image as testWSQ.wsq,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,testWSQOut.data,.data,"4,096",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyWsqDecoding,64x64,BW,,,,,,,,,,,,same image as testWSQ.wsq,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,testWSQ_HighBitRateAndComment.wsq,.wsq,"1,580",com.gemalto.cogent.test.image,BitmapUtilTest.testWsqEncoding,64x64,BW,,,,,,,,,,,,letter A with blurry background,,,,,,N/A,TRUE
+\assets\common,testWSQ_HighBitRateAndComment.wsq,.wsq,"1,580",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyWsqEncoding,64x64,BW,,,,,,,,,,,,letter A with blurry background,,,,,,N/A,TRUE
+\assets\common,thumb_2_slap.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,thumb_2_slap.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,thumb_2_slap_missing_left.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,One,Fingerprint Scan,Thumbs Slap,,,,,,,,,left thumb missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,thumb_2_slap_missing_left.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,One,Fingerprint Scan,Thumbs Slap,,,,,,,,,left thumb missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,thumb_2_slap_missing_right.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,One,Fingerprint Scan,Thumbs Slap,,,,,,,,,right thumb missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,thumb_2_slap_missing_right.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,One,Fingerprint Scan,Thumbs Slap,,,,,,,,,right thumb missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common,tiltedface.data,.data,"3,840,000",N/F,N/F,1200x800,RGBA,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,,head tilted to the right ,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common\face_crop\input,3_faces.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest_NT.testGetEyesFailOnFaceNumber,500x333,BGR,Multiple,Person,,Woman,Open,Smiling,Outdoors ,Front,,,,three women lying donwin grass next to each other,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\face_crop\input,3_faces.png,.png,"337,712",com.gemalto.cogent.test.face_image,FaceImageUtilTest.testGetEyesFailOnFaceNumber,500x333,RGB,Multiple,Person,,Woman,Open,Smiling,Outdoors ,Front,,,3_faces.data,,,,,,,N/A,TRUE
+\assets\common\face_crop\input,blankwhite.data,.data,"852,612",com.gemalto.cogent.test.face,FaceAPITest_NT.testGetEyesFailOnFaceNumber,454x626,RGB,,,,,,,,,,,,"blank image, white",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\face_crop\input,blankwhite.jpg,.jpg,"5,359",com.gemalto.cogent.test.face_image,FaceImageUtilTest.testGetEyesFailOnFaceNumber,454x626,RGB,,,,,,,,,,,blankwhite.data,"blank image, white",,,,,,N/A,TRUE
+\assets\common\face_crop\input,handsome-man-wearing-glasses-high-res.data,.data,"3,810,240",com.gemalto.cogent.test.face,FaceAPITest.testGetEyesPositions,1296x980,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"glasses, head resting on hand",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\face_crop\input,handsome-man-wearing-glasses-high-res.jpg,.jpg,"95,805",com.gemalto.cogent.test.face_image,FaceImageUtilTest.testCropFaceAllSingleFaces,1296x980,RGB,One,Face,,Man,Open,Neutral,White,Front,,,handsome-man-wearing-glasses-high-res.data,"glasses, head resting on hand",,,,,,N/A,TRUE
+\assets\common\face_crop\input,man_with_glasses.data,.data,"993,000",com.gemalto.cogent.test.face,FaceAPITest.testGetEyesPositions,500x662,BGR,One,Face,,Man,Open,Smiling,White,Front,,,,glasses,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\face_crop\input,man_with_glasses.jpg,.jpg,"88,129",com.gemalto.cogent.test.face_image,FaceImageUtilTest.testCropFaceAllSingleFaces,500x662,RGB,One,Face,,Man,Open,Smiling,White,Front,,,man_with_glasses.data,glasses,,,,,,N/A,TRUE
+\assets\common\face_crop\input,woman_11.bmp,.bmp,"840,762",com.gemalto.cogent.test.face_image,FaceImageUtilTest.testCropFaceAllSingleFaces,483x579,RGB,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,,"hand touching cheek, head slightly tilted",,,,,,N/A,TRUE
+\assets\common\face_crop\input,woman_11.data,.data,"838,971",com.gemalto.cogent.test.face,FaceAPITest.testGetEyesPositions,483x579,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,woman_11.bmp,"hand touching cheek, head slightly tilted",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\face_crop\input,woman_1_2.bmp,.bmp,"351,702",com.gemalto.cogent.test.face_image,FaceImageUtilTest.testCropFaceAllSingleFaces,394x297,RGB,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,,head tilted,,,,,,N/A,TRUE
+\assets\common\face_crop\input,woman_1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest.testGetEyesPositions,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\face_crop\ref,handsome-man-wearing-glasses-high-res-240.jpg,.jpg,"30,421",N/F,N/F,240x320,RGB,One,Face,,Man,Open,Neutral,White,Front,,,,cropped version of handsome-man-wearing-glasses-high-res.data,,,,,,N/A,TRUE
+\assets\common\face_crop\ref,handsome-man-wearing-glasses-high-res-480.jpg,.jpg,"90,689",N/F,N/F,480x640,RGB,One,Face,,Man,Open,Neutral,White,Front,,,handsome-man-wearing-glasses-high-res-240.jpg,resolution x2,,,,,,N/A,TRUE
+\assets\common\face_crop\ref,handsome-man-wearing-glasses-high-res-720.jpg,.jpg,"165,718",N/F,N/F,720x960,RGB,One,Face,,Man,Open,Neutral,White,Front,,,handsome-man-wearing-glasses-high-res-240.jpg,resolution x3,,,,,,N/A,TRUE
+\assets\common\face_crop\ref,man_with_glasses-240.jpg,.jpg,"26,158",N/F,N/F,N/F,,One,Face,,Man,Open,Smiling,White,Front,,,,cropped version of man_with_glasses.data,,,,,,N/A,TRUE
+\assets\common\face_crop\ref,woman_11-240.bmp,.bmp,"230,454",N/F,N/F,N/F,,,Face,,Woman,Open,Neutral,Outdoors ,Front,,,,"cropped version of woman_11.bmp, head vertical",,,,,,N/A,TRUE
+\assets\common\face_crop\ref,woman_1_2-240.bmp,.bmp,"230,454",N/F,N/F,N/F,,,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,,"cropped version of woman_1_2.bmp, head vertical",,,,,,N/A,TRUE
+\assets\common\image\face,8face.jp2,.jp2,"248,512",N/F,N/F,400x528,RGB,Multiple,Face,,Woman,Open,Smiling,White,Front,,,\assets\common\8face.data,"collage, 8 copies of the same picture",,,,,,N/A,TRUE
+\assets\common\image\face,9_faces.jp2,.jp2,"254,567",N/F,N/F,400x528,RGB,Multiple,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\9_faces.data,"collage 3x3, 9 copies of the same picture",,,,,,N/A,TRUE
+\assets\common\image\face,closed_eyes_BGR.bmp,.bmp,"394,954",com.gemalto.cogent.test.image,BitmapUtilTest.testBmpDecoding,366x359,RGB,One,Face,,Man,Closed,Smiling,White,Front,,,,,,,,,,N/A,TRUE
+\assets\common\image\face,closed_eyes_BGR.bmp,.bmp,"394,954",com.gemalto.cogent.test.image,BitmapUtilTest.testBmpEncoding,366x359,RGB,One,Face,,Man,Closed,Smiling,White,Front,,,,,,,,,,N/A,TRUE
+\assets\common\image\face,closed_eyes_BGR.bmp,.bmp,"394,954",com.gemalto.cogent.test.image,BitmapUtilTest.testGetBMPImageFormat,366x359,RGB,One,Face,,Man,Closed,Smiling,White,Front,,,,,,,,,,N/A,TRUE
+\assets\common\image\face,closed_eyes_BGR.bmp,.bmp,"394,954",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyBmpDecoding,366x359,RGB,One,Face,,Man,Closed,Smiling,White,Front,,,,,,,,,,N/A,TRUE
+\assets\common\image\face,closed_eyes_BGR.bmp,.bmp,"394,954",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyBmpEncoding,366x359,RGB,One,Face,,Man,Closed,Smiling,White,Front,,,,,,,,,,N/A,TRUE
+\assets\common\image\face,closed_eyes_BGR.bmp,.bmp,"394,954",com.gemalto.cogent.test.image,BitmapUtilTest.testBmpIncompleteDecoding,366x359,RGB,One,Face,,Man,Closed,Smiling,White,Front,,,,,,,,,,N/A,TRUE
+\assets\common\image\face,closed_eyes_BGR.data,.data,"394,182",com.gemalto.cogent.test.image,BitmapUtilTest.testBmpDecoding,366x359,BGR,One,Face,,Man,Closed,Smiling,White,Front,,,closed_eyes_BGR.bmp,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,closed_eyes_BGR.data,.data,"394,182",com.gemalto.cogent.test.image,BitmapUtilTest.testBmpEncoding,366x359,BGR,One,Face,,Man,Closed,Smiling,White,Front,,,closed_eyes_BGR.bmp,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,closed_eyes_BGR.data,.data,"394,182",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyBmpDecoding,366x359,BGR,One,Face,,Man,Closed,Smiling,White,Front,,,closed_eyes_BGR.bmp,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,closed_eyes_BGR.data,.data,"394,182",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyBmpEncoding,366x359,BGR,One,Face,,Man,Closed,Smiling,White,Front,,,closed_eyes_BGR.bmp,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,closed_eyes_BGR.data,.data,"394,182",com.gemalto.cogent.test.image,BitmapUtilTest.testBmpEncodingWrongWidth,366x359,BGR,One,Face,,Man,Closed,Smiling,White,Front,,,closed_eyes_BGR.bmp,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,closed_eyes_BGR.data,.data,"394,182",com.gemalto.cogent.test.image,BitmapUtilTest.testBmpEncodingWrongHeight,366x359,BGR,One,Face,,Man,Closed,Smiling,White,Front,,,closed_eyes_BGR.bmp,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1.data,.data,"844,800",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2encoding,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,different from \assets\common\face1.data,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1.data,.data,"844,800",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJp2Encoding,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,different from \assets\common\face1.data,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1.data,.data,"844,800",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2encodingWrongWidth,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,different from \assets\common\face1.data,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1.data,.data,"844,800",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2encodingWrongHeight,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,,different from \assets\common\face1.data,,,FALSE,TRUE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1.jp2,.jp2,"132,371",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2Decoding,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,,,,N/A,TRUE
+\assets\common\image\face,face1.jp2,.jp2,"132,371",com.gemalto.cogent.test.image,BitmapUtilTest.testIncompleteJp2Decoding,400x528,RGBA,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,,,,N/A,TRUE
+\assets\common\image\face,face1_BGR.data,.data,"633,600",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2Decoding,400x528,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1_BGR.data,.data,"633,600",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJp2Decoding,400x528,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1_BGR.data,.data,"633,600",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2DecodingNotJP2,400x528,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\common\image\face,face1_BGR.jp2,.jp2,"132,371",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2encoding,400x528,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,,,,N/A,TRUE
+\assets\common\image\face,face1_BGR.jp2,.jp2,"132,371",com.gemalto.cogent.test.image,BitmapUtilTest.testGetJP2ImageFormat,400x528,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,,,,N/A,TRUE
+\assets\common\image\face,face1_BGR.jp2,.jp2,"132,371",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJp2Decoding,400x528,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,,,,N/A,TRUE
+\assets\common\image\face,face1_BGR.jp2,.jp2,"132,371",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJp2Encoding,400x528,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,\assets\common\image\face\face1.data,,,,,,,N/A,TRUE
+\assets\common\image\face,face3.jpg,.jpg,"30,607",N/F,N/F,400x528,RGB,One,Face,,Man,Open,Neutral,White,Front,,,,,,,,,,N/A,TRUE
+\assets\common\image\finger,left_4_slap_missing_middle.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2DecodingGS,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,\assets\common\left_4_slap_missing_middle.data,middle finger missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,left_4_slap_missing_middle.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2encodingGS,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,\assets\common\left_4_slap_missing_middle.data,middle finger missing,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,left_4_slap_missing_middle_GS.jp2,.jp2,"318,328",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2DecodingGS,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,\assets\common\left_4_slap_missing_middle.data,middle finger missing,,,,,,N/A,TRUE
+\assets\common\image\finger,left_4_slap_missing_middle_GS.jp2,.jp2,"318,328",com.gemalto.cogent.test.image,BitmapUtilTest.testJp2encodingGS,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,\assets\common\left_4_slap_missing_middle.data,middle finger missing,,,,,,N/A,TRUE
+\assets\common\image\finger,left_4_slap_missing_middle_GS.jpg,.jpg,"290,811",com.gemalto.cogent.test.image,BitmapUtilTest.testIncompleteJpgDecoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,\assets\common\left_4_slap_missing_middle.data,middle finger missing,,,,,,N/A,TRUE
+\assets\common\image\finger,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgEncoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJpgEncoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testGetUnsupportedImageFormat,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgEncodingWrongWidth,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgEncodingWrongHeight,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,right_4_slap_GS.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgDecoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,right_4_slap_GS.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJpgDecoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,right_4_slap_GS.jpg,.jpg,"395,446",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgDecoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,right_4_slap_GS.jpg,.jpg,"395,446",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgEncoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,right_4_slap_GS.jpg,.jpg,"395,446",com.gemalto.cogent.test.image,BitmapUtilTest.testGetJPGImageFormat,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,right_4_slap_GS.jpg,.jpg,"395,446",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJpgDecoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,right_4_slap_GS.jpg,.jpg,"395,446",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJpgEncoding,1500x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,\assets\common\right_4_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,thumb_2_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testPNGEncoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,thumb_2_slap_GS.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testPNGDecoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,thumb_2_slap_GS.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyPngDecoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,thumb_2_slap_GS.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyPngEncoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,thumb_2_slap_GS.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testPNGEncodingWrongWidth,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,thumb_2_slap_GS.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testPNGEncodingWrongHeight,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\common\image\finger,thumb_2_slap_GS.png,.png,"169,291",com.gemalto.cogent.test.image,BitmapUtilTest.testPNGDecoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,thumb_2_slap_GS.png,.png,"169,291",com.gemalto.cogent.test.image,BitmapUtilTest.testPNGEncoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,thumb_2_slap_GS.png,.png,"169,291",com.gemalto.cogent.test.image,BitmapUtilTest.testGetPNGImageFormat,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,thumb_2_slap_GS.png,.png,"169,291",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyPngDecoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,thumb_2_slap_GS.png,.png,"169,291",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyPngEncoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\finger,thumb_2_slap_GS.png,.png,"169,291",com.gemalto.cogent.test.image,BitmapUtilTest.testIncompletePNGDecoding,1500x1000,BW,Multiple,Fingerprint Scan,Thumbs Slap,,,,,,,,\assets\common\thumb_2_slap.data,,,,,,,N/A,TRUE
+\assets\common\image\iris,irisBoth_BGR.jp2,.jp2,"114,033",N/F,N/F,1600x240,BW,Multiple,Iris,,,,,,,,,\assets\common\irisBoth.raw,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0000_000.jp2,.jp2,"15,307",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testIrisEncode,640x480,BW,One,Right Eye,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0000_000.jp2.bdb,.bdb,"15,375",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testIrisEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0000_000.jp2.bdb,.bdb,"15,375",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testIrisDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0000_000.png,.png,"268,440",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testIrisEncode,640x480,BW,One,Right Eye,,,,,,,,,0000_000.jp2,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0000_000.png.bdb,.bdb,"268,508",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testIrisEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0000_000.png.bdb,.bdb,"268,508",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testIrisDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0000_001.png,.png,"277,535",N/F,N/F,640x480,RGB,One,Right Eye,,,,,,,,0000_000.png,,no colour,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0001_L_0001.BDB,.BDB,"1,178,064",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0001_L_0001.jpg,.jpg,"263,717",N/F,N/F,1280x960,RGB,,Left Eye,,,,,,,,,,no colour,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0001_R_0001.BDB,.BDB,"1,028,345",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,0001_R_0001.jpg,.jpg,"234,658",N/F,N/F,1280x960,RGB,,Right Eye,,,,,,,,0001_L_0001.jpg,,no colour,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jp2,.jp2,"11,021",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jp2.bdb,.bdb,"11,078",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,N/A,N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jp2.bdb,.bdb,"11,078",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerDecode,N/A,N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jp2.corrupt,.corrupt,164,com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testEncodeCorruptJpeg2000,N/A,N/A,,,,,,,,,,1_1.jp2,,corrupted jp2,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jpg,.jpg,"131,049",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jpg.bdb,.bdb,"131,106",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,N/A,N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jpg.bdb,.bdb,"131,106",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerDecode,N/A,N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.jpg.corrupt,.corrupt,185,com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testEncodeCorruptJpeg,N/A,N/A,,,,,,,,,,1_1.jpg,,corrupted jpg,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.png,.png,"139,416",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,400x560,BW,One,Fingerprint Scan,Arch,,,,,,,,1_1.bmp,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.png.bdb,.bdb,"139,473",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,N/A,N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.png.bdb,.bdb,"139,473",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerDecode,N/A,N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,1_1.png.corrupt,.corrupt,192,com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testEncodeCorruptPng,N/A,N/A,,,,,,,,,,1_1.png,,corrupted png,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.j2k,.j2k,"40,292",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,384x480,RGB,One,Face,,Man,Open,Neutral,White,Front,,,,"low quality, grainy",,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.j2k.bdb,.bdb,"40,360",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.j2k.bdb,.bdb,"40,360",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.jpg,.jpg,"44,782",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,384x480,RGB,One,Face,,Man,Open,Neutral,White,Front,,,face_01.j2k,"low quality, grainy",,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.jpg.bdb,.bdb,"44,850",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.jpg.bdb,.bdb,"44,850",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.png,.png,"224,587",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,384x480,RGB,One,Face,,Man,Open,Neutral,White,Front,,,face_01.j2k,"low quality, grainy",,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.png.bdb,.bdb,"224,655",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_01.png.bdb,.bdb,"224,655",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_02.jpg,.jpg,"46,133",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,384x480,RGB,One,Face,,Man,Open,Neutral,White,Front,,face_01.j2k,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_02.jpg.bdb,.bdb,"46,201",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,face_02.jpg.bdb,.bdb,"46,201",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFaceDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,nfiq_good.BDB,.BDB,"37,000",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,nfiq_good.BDB,.BDB,"37,000",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,nfiq_good.wsq,.wsq,"36,943",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,832x768,BW,One,Fingerprint Scan,Loop,,,,,,,,,"right index, writing, cropped fingerprint card, good NFIQ",,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,nfiq_good.wsq.corrupt,.corrupt,176,com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testEncodeCorruptWSQ,N/F,,,,,,,,,,,nfiq_good.wsq,,corrupt wsq,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,nfiq_poor.bdb,.bdb,"37,308",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,nfiq_poor.bdb,.bdb,"37,308",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerDecode,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\ISOEncodeDecode,nfiq_poor.wsq,.wsq,"37,251",com.gemalto.cogent.test.image,ISOEncodeDecodeTest.testFingerEncode,832x768,BW,One,Fingerprint Scan,Loop,,,,,,,,,"right middle, rolled, writing, cropped fingerprint card, bad NFIQ",,,,,,N/A,TRUE
+\assets\common\nist,ansi378.fmrpiv,.fmrpiv,"1,176",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist,ansi378Fingers10.fmr,.fmr,"3,188",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist,bad_config.txt,.txt,"3,096",N/F,N/F,N/F,,,,,,,,,,,,,random text,,,,,,N/A,TRUE
+\assets\common\nist,face.j2k,.j2k,"114,697",N/F,N/F,384x480,RGB,One,Face,,Man,Open,Neutral,Colour,Front,,,,,,,,,,N/A,TRUE
+\assets\common\nist,face.jpg,.jpg,"64,881",com.gemalto.cogent.test.nist,TestFileCreation.testFullFileCreation,384x480,RGB,One,Face,,Man,Open,Neutral,Colour,Front,,,face.j2k,,,,,,,N/A,TRUE
+\assets\common\nist,fingerprint.wsq,.wsq,"23,906",com.gemalto.cogent.test.nist,TestFileCreation.testFullFileCreation,800x750,BW,One,Fingerprint Scan,Whorl,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist,minutiae.mnt,.mnt,"3,072",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,long_string.nist,.nist,"1,000,042",com.gemalto.cogent.test.nist,TestSecureInputs.testTransactionInputVeryLongString,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refAnsi378Fingers10.nist,.nist,"10,994",com.gemalto.cogent.test.nist,TestFileParsing.testFindNextAvailableIDC,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refCustomIndex.nist,.nist,117,com.gemalto.cogent.test.nist,TestFileCreation.testCreateRecordWithIndex,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileAutoAndCustomIDC.nist,.nist,183,com.gemalto.cogent.test.nist,TestFileCreation.testCreateRecordWithIDC,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCreationAutoIDC.nist,.nist,150,com.gemalto.cogent.test.nist,TestFileParsing.testFindNextAvailableIDC,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCreationDisableAutoIDC1.nist,.nist,152,com.gemalto.cogent.test.nist,TestFileCreation.testFileCreationDisableAutoIDC1,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCreationDisableAutoIDC2.nist,.nist,39,com.gemalto.cogent.test.nist,TestFileCreation.testFileCreationDisableAutoIDC2,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCustomFieldNumber1.nist,.nist,80,com.gemalto.cogent.test.nist,TestFileCreation.testFileCustomFieldNumberCreate,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCustomFieldNumber1.nist,.nist,80,com.gemalto.cogent.test.nist,TestFileParsing.testFileCustomFieldNumberRead,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCustomFieldNumber1.nist,.nist,80,com.gemalto.cogent.test.nist,TestFileParsing.testFindNextAvailableIDC,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCustomFieldNumber1.nist,.nist,80,com.gemalto.cogent.test.nist,TestFileParsing.testDeleteRecord,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCustomFieldNumber1_MissingRecord10.nist,.nist,30,com.gemalto.cogent.test.nist,TestFileParsing.testDeleteRecord,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCustomFieldNumber2.nist,.nist,139,com.gemalto.cogent.test.nist,TestFileCreation.testFileCustomFieldNumberCreate,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFileCustomFieldNumber2.nist,.nist,139,com.gemalto.cogent.test.nist,TestFileParsing.testFileCustomFieldNumberRead,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFullFile.nist,.nist,"118,419",com.gemalto.cogent.test.nist,TestFileCreation.testFullFileCreation,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFullFile.nist,.nist,"118,419",com.gemalto.cogent.test.nist,TestFileParsing.testFileReadKnown,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFullFile.nist,.nist,"118,419",com.gemalto.cogent.test.nist,TestFileParsing.testGetRecords,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refFullFile.nist,.nist,"118,419",com.gemalto.cogent.test.nist,TestFileParsing.testGetTextFields,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refJ2K.nist,.nist,"115,035",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,refRec14EmptyImage.nist,.nist,272,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\references,TX12345678.nist,.nist,"118,761",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\special-files,NewlineRecord.tdf,.tdf,"134,358",com.gemalto.cogent.test.nist,TestFileParsing.testNewlineRead,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\special-files,NewlineRecord.text,.text,"3,491",com.gemalto.cogent.test.nist,TestFileParsing.testNewlineRead,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_000.wsq,.wsq,"23,906",N/F,N/F,800x750,BW,One,Fingerprint Scan,Whorl,,,,,,,,\assets\common\nist\fingerprint.wsq,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_001.wsq,.wsq,"23,906",N/F,N/F,800x750,BW,One,Fingerprint Scan,Whorl,,,,,,,,\assets\common\nist\fingerprint.wsq,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_002.wsq,.wsq,"82,189",N/F,N/F,1500x1200,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_003.wsq,.wsq,"15,748",N/F,N/F,1000x750,BW,Multiple,Fingerprint Scan,,,,,,,,,,partial fingerprint ??,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_004.wsq,.wsq,"63,470",N/F,N/F,1576x1000,BW,Multiple,Fingerprint Scan,4 Slap Left,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_005.wsq,.wsq,"66,283",N/F,N/F,1576x1000,BW,Multiple,Fingerprint Scan,4 Slap Right,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_006.wsq,.wsq,"17,669",N/F,N/F,452x749,BW,One,Fingerprint Scan,Whorl,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_007.wsq,.wsq,"19,020",N/F,N/F,452x749,BW,One,Fingerprint Scan,Whorl,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\threads,fingerprint_008.wsq,.wsq,"21,812",N/F,N/F,800x750,BW,One,Fingerprint Scan,Whorl,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\nist\threads,photo_000.jpg,.jpg,"64,881",N/F,N/F,384x480,RGB,One,Face,,Man,Open,Neutral,Colour,Front,,,\assets\common\nist\face.j2k,,,,,,,N/A,TRUE
+\assets\common\nist\threads,photo_001.jpg,.jpg,"71,841",N/F,N/F,384x480,RGB,One,Other,,,,,,,,,,neck tattoo,,,,,,N/A,TRUE
+\assets\common\nist\threads,photo_002.jpg,.jpg,"64,360",N/F,N/F,384x480,RGB,One,Other,,,,,,,,,,tattoo,,,,,,N/A,TRUE
+\assets\common\nist\threads,photo_003.jpg,.jpg,"60,440",N/F,N/F,384x480,RGB,One,Face,,Man,Open,Neutral,Colour,Left,,photo_000.jpg,,"face from the side, glasses",,,,,,N/A,TRUE
+\assets\common\tmpl_ANSI,1_1.cfd,.cfd,350,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ANSI,2_1.cfd,.cfd,254,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ANSI,3_1.cfd,.cfd,554,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ANSI,4_1.cfd,.cfd,398,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ANSI,5_1.cfd,.cfd,476,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISO,1_1.cfd,.cfd,348,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISO,2_1.cfd,.cfd,252,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISO,3_1.cfd,.cfd,552,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISO,4_1.cfd,.cfd,396,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISO,5_1.cfd,.cfd,474,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISOCC,1_1.cfd,.cfd,159,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISOCC,2_1.cfd,.cfd,111,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISOCC,3_1.cfd,.cfd,261,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISOCC,4_1.cfd,.cfd,183,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_ISOCC,5_1.cfd,.cfd,222,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,1_1_ANSI_MAX_20.cfd,.cfd,152,com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetyExtractTemplate,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,1_1_ISOCC.cfd,.cfd,93,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,1_1_ISOCC_MAX_20.cfd,.cfd,60,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,2_1_ANSI_MAX_20.cfd,.cfd,152,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,2_1_ISOCC.cfd,.cfd,129,com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOCC,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,2_1_ISOCC_MAX_20.cfd,.cfd,60,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,3_1_ANSI_MAX_20.cfd,.cfd,152,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,3_1_ISOCC.cfd,.cfd,189,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US,3_1_ISOCC_MAX_20.cfd,.cfd,60,com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISOCCMaxMinutiae,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\linux,1_1_ANSI.cfd,.cfd,218,com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateAnsi378,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\linux,1_1_ISO.cfd,.cfd,216,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\linux,2_1_ANSI.cfd,.cfd,290,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\linux,2_1_ISO.cfd,.cfd,288,com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISO,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\linux,3_1_ANSI.cfd,.cfd,410,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\linux,3_1_ISO.cfd,.cfd,408,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\windows,1_1_ANSI.cfd,.cfd,218,com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateAnsi378,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\windows,1_1_ISO.cfd,.cfd,216,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\windows,2_1_ANSI.cfd,.cfd,290,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\windows,2_1_ISO.cfd,.cfd,288,com.gemalto.cogent.test.finger,FingerAPITest.testExtractTemplateISO,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\windows,3_1_ANSI.cfd,.cfd,410,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\common\tmpl_US\windows,3_1_ISO.cfd,.cfd,408,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face,faceQualityCfg.json,.json,"10,516",com.gemalto.cogent.test.face,FaceAPITest,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face,gpuCfg.json,.json,16,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,0000000018078471_X11A.data,.data,"500,202",com.gemalto.cogent.test.face,FaceAPITest.testLocation,354x471,RGB,One,Face,,Woman,Open,Neutral,White,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,0000000018078471_X11A.data,.data,"500,202",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,354x471,RGB,One,Face,,Woman,Open,Neutral,White,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,0000000018078471_X11A.data,.data,"500,202",com.gemalto.cogent.test.face,FaceAPITest.testVerify,354x471,RGB,One,Face,,Woman,Open,Neutral,White,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,11.data,.data,"838,971",com.gemalto.cogent.test.face,FaceAPIMatchOnlyTest.testFeatureExtract,483x579,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,\assets\common\face_crop\input\woman_11.bmp,"hand touching cheek, head slightly tilted",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,11.data,.data,"838,971",com.gemalto.cogent.test.face,FaceAPITest.testLocation,483x579,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,\assets\common\face_crop\input\woman_11.bmp,"hand touching cheek, head slightly tilted",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,11.data,.data,"838,971",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,483x579,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,\assets\common\face_crop\input\woman_11.bmp,"hand touching cheek, head slightly tilted",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,11.data,.data,"838,971",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,483x579,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,\assets\common\face_crop\input\woman_11.bmp,"hand touching cheek, head slightly tilted",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,11.data,.data,"838,971",com.gemalto.cogent.test.face,FaceAPITest.testVerify,483x579,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,Front,,,\assets\common\face_crop\input\woman_11.bmp,"hand touching cheek, head slightly tilted",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,12.data,.data,"508,500",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x339,BGR,Multiple,Person,,,,,Outdoors ,Front,,,,group photo of 15 people,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,12.data,.data,"508,500",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x339,BGR,Multiple,Person,,,,,Outdoors ,Front,,,,group photo of 15 people,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,12.data,.data,"508,500",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,500x339,BGR,Multiple,Person,,,,,Outdoors ,Front,,,,group photo of 15 people,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,12.data,.data,"508,500",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x339,BGR,Multiple,Person,,,,,Outdoors ,Front,,,,group photo of 15 people,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,13.data,.data,"775,614",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,413x626,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,13.data,.data,"775,614",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,413x626,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,13.data,.data,"775,614",com.gemalto.cogent.test.face,FaceAPITest.testVerify,413x626,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,14.data,.data,"3,218,436",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,897x1196,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,"looking slightly left and down, chinese writing over the picture covering chin",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,14.data,.data,"3,218,436",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,897x1196,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,"looking slightly left and down, chinese writing over the picture covering chin",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,14.data,.data,"3,218,436",com.gemalto.cogent.test.face,FaceAPITest.testVerify,897x1196,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,"looking slightly left and down, chinese writing over the picture covering chin",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,144.data,.data,"924,336",com.gemalto.cogent.test.face,FaceAPITest.testLocation,588x524,BGR,Multiple,Person,,Man,,,Outdoors ,,,,,"two men, one smiling looking sideways to the right, other neutral looking towards camera, pointing to the camera",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,144.data,.data,"924,336",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,588x524,BGR,Multiple,Person,,Man,,,Outdoors ,,,,,"two men, one smiling looking sideways to the right, other neutral looking towards camera, pointing to the camera",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,144.data,.data,"924,336",com.gemalto.cogent.test.face,FaceAPITest.testTrack,588x524,BGR,Multiple,Person,,Man,,,Outdoors ,,,,,"two men, one smiling looking sideways to the right, other neutral looking towards camera, pointing to the camera",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,15.data,.data,"1,368,000",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,570x800,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,15.data,.data,"1,368,000",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,570x800,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,15.data,.data,"1,368,000",com.gemalto.cogent.test.face,FaceAPITest.testVerify,570x800,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,17.data,.data,"806,400",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,448x600,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,old,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,17.data,.data,"806,400",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,448x600,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,old,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,17.data,.data,"806,400",com.gemalto.cogent.test.face,FaceAPITest.testVerify,448x600,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,old,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest.testLocation,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,\assets\common\face_crop\input\woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,\assets\common\face_crop\input\woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,\assets\common\face_crop\input\woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest.testVerify,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,\assets\common\face_crop\input\woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest_NT.testLocationWrongRotation,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,\assets\common\face_crop\input\woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifySameImages1,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,\assets\common\face_crop\input\woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_2.data,.data,"351,054",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifySameImages0,394x297,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,\assets\common\face_crop\input\woman_1_2.bmp,head tilted,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_3.data,.data,"778,713",com.gemalto.cogent.test.face,FaceAPITest.testLocation,533x487,BGR,One,Face,,Man,Open,Neutral,White,Right,,,,touching chin with right hand,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_3.data,.data,"778,713",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,533x487,BGR,One,Face,,Man,Open,Neutral,White,Right,,,,touching chin with right hand,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_3.data,.data,"778,713",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,533x487,BGR,One,Face,,Man,Open,Neutral,White,Right,,,,touching chin with right hand,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_3.data,.data,"778,713",com.gemalto.cogent.test.face,FaceAPITest.testVerify,533x487,BGR,One,Face,,Man,Open,Neutral,White,Right,,,,touching chin with right hand,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_4.data,.data,"387,900",com.gemalto.cogent.test.face,FaceAPITest.testLocation,431x300,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,3 partial faces in the background,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_4.data,.data,"387,900",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,431x300,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,3 partial faces in the background,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_4.data,.data,"387,900",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,431x300,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,3 partial faces in the background,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_5.data,.data,"471,375",com.gemalto.cogent.test.face,FaceAPITest.testLocation,419x375,BGR,One,Face,,Woman,Sunglasses,Smiling,Indoors,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_5.data,.data,"471,375",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,419x375,BGR,One,Face,,Woman,Sunglasses,Smiling,Indoors,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_5.data,.data,"471,375",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,419x375,BGR,One,Face,,Woman,Sunglasses,Smiling,Indoors,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_5.data,.data,"471,375",com.gemalto.cogent.test.face,FaceAPITest.testVerify,419x375,BGR,One,Face,,Woman,Sunglasses,Smiling,Indoors,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_5.data,.data,"471,375",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifySameImages1,419x375,BGR,One,Face,,Woman,Sunglasses,Smiling,Indoors,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_5.data,.data,"471,375",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifySameImages0,419x375,BGR,One,Face,,Woman,Sunglasses,Smiling,Indoors,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_6.data,.data,"766,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,426x600,BGR,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,"body facing sideways to the left, top of head cut",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_6.data,.data,"766,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,426x600,BGR,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,"body facing sideways to the left, top of head cut",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_6.data,.data,"766,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,426x600,BGR,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,"body facing sideways to the left, top of head cut",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_6.data,.data,"766,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,426x600,BGR,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,"body facing sideways to the left, top of head cut",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_7.data,.data,"2,332,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,720x1080,BGR,One,Face,,Man,Open,Smiling,White,Left,,,,"no colour, head and torso",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_7.data,.data,"2,332,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x1080,BGR,One,Face,,Man,Open,Smiling,White,Left,,,,"no colour, head and torso",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_7.data,.data,"2,332,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x1080,BGR,One,Face,,Man,Open,Smiling,White,Left,,,,"no colour, head and torso",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_7.data,.data,"2,332,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x1080,BGR,One,Face,,Man,Open,Smiling,White,Left,,,,"no colour, head and torso",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_8.data,.data,"458,865",com.gemalto.cogent.test.face,FaceAPITest.testLocation,495x309,BGR,Multiple,Face,,Woman,Open,,,,,,,"two images of same subject next to each other, one neutral expression outdoors and wearing hat, other looks like an ad with writing round",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_8.data,.data,"458,865",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,495x309,BGR,Multiple,Face,,Woman,Open,,,,,,,"two images of same subject next to each other, one neutral expression outdoors and wearing hat, other looks like an ad with writing round",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_9.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,"old-ish, glasses, backround edge visible",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_9.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,"old-ish, glasses, backround edge visible",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_9.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,"old-ish, glasses, backround edge visible",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_gallery.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,1_9.data,"old-ish, glasses, backround edge visible",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_gallery.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,1_9.data,"old-ish, glasses, backround edge visible",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_gallery.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,1_9.data,"old-ish, glasses, backround edge visible",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_probe.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,1_9.data,,"old-ish, glasses, different sweater, background fills frame",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_probe.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,1_9.data,,"old-ish, glasses, different sweater, background fills frame",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,1_probe.data,.data,"1,244,160",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x576,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,1_9.data,,"old-ish, glasses, different sweater, background fills frame",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,21.data,.data,"1,185,696",com.gemalto.cogent.test.face,FaceAPITest.testLocation,736x537,BGR,Multiple,Face,,,Open,Smiling,Indoors,Front,,,,"man and a woman next to each other , woman slightly tilted head",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,21.data,.data,"1,185,696",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,736x537,BGR,Multiple,Face,,,Open,Smiling,Indoors,Front,,,,"man and a woman next to each other , woman slightly tilted head",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,21.data,.data,"1,185,696",com.gemalto.cogent.test.face,FaceAPITest.testTrack,736x537,BGR,Multiple,Face,,,Open,Smiling,Indoors,Front,,,,"man and a woman next to each other , woman slightly tilted head",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,3.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x333,BGR,Multiple,Person,,Woman,Open,Smiling,Outdoors ,Front,,,\assets\common\face_crop\input\3_faces.data,three women lying donwin grass next to each other,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,3.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x333,BGR,Multiple,Person,,Woman,Open,Smiling,Outdoors ,Front,,,\assets\common\face_crop\input\3_faces.data,three women lying donwin grass next to each other,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,3.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x333,BGR,Multiple,Person,,Woman,Open,Smiling,Outdoors ,Front,,,\assets\common\face_crop\input\3_faces.data,three women lying donwin grass next to each other,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,33.data,.data,"487,494",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,371x438,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,33.data,.data,"487,494",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,371x438,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,33.data,.data,"487,494",com.gemalto.cogent.test.face,FaceAPITest.testVerify,371x438,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,48.data,.data,"810,000",N/F,N/F,450x600,BGR,One,Face,,Woman,Open,Smiling,Outdoors ,Front,,,,hair covers up part of right eye,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,4_1.data,.data,"1,887,144",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,658x956,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,"glasses, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,4_1.data,.data,"1,887,144",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,658x956,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,"glasses, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,4_1.data,.data,"1,887,144",com.gemalto.cogent.test.face,FaceAPITest.testVerify,658x956,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,"glasses, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,4_1.data,.data,"1,887,144",com.gemalto.cogent.test.face,FaceAPITest.testMatchQuality,658x956,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,"glasses, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,5_1.data,.data,"4,500,000",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,1000x1500,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,5_1.data,.data,"4,500,000",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,1000x1500,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,5_1.data,.data,"4,500,000",com.gemalto.cogent.test.face,FaceAPITest.testVerify,1000x1500,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,5_1.data,.data,"4,500,000",com.gemalto.cogent.test.face,FaceAPITest.testMatchQuality,1000x1500,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x333,BGR,Multiple,Person,,,,Smiling,Outdoors ,,,,,"group photo, 4 women, 3 men, squinting eyes",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x333,BGR,Multiple,Person,,,,Smiling,Outdoors ,,,,,"group photo, 4 women, 3 men, squinting eyes",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x333,BGR,Multiple,Person,,,,Smiling,Outdoors ,,,,,"group photo, 4 women, 3 men, squinting eyes",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6ren.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x500,BGR,Multiple,Person,,,Open,,White,Front,,,,"group photo, 4 men, 2 women, some smiling some neutral, two men have glasses",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6ren.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x500,BGR,Multiple,Person,,,Open,,White,Front,,,,"group photo, 4 men, 2 women, some smiling some neutral, two men have glasses",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6ren.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x500,BGR,Multiple,Person,,,Open,,White,Front,,,,"group photo, 4 men, 2 women, some smiling some neutral, two men have glasses",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6_1.data,.data,"2,685,600",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,800x1119,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6_1.data,.data,"2,685,600",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,800x1119,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6_1.data,.data,"2,685,600",com.gemalto.cogent.test.face,FaceAPITest.testVerify,800x1119,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,6_1.data,.data,"2,685,600",com.gemalto.cogent.test.face,FaceAPITest.testMatchQuality,800x1119,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,8.data,.data,"516,420",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,380x453,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,"glasses, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,8.data,.data,"516,420",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,380x453,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,"glasses, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,8.data,.data,"516,420",com.gemalto.cogent.test.face,FaceAPITest.testVerify,380x453,BGR,One,Face,,Woman,Open,Neutral,Colour,Front,,,,"glasses, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b2.data,.data,"1,510,200",N/F,N/F,600x839,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,baby_4.data,.data,"819,840",com.gemalto.cogent.test.face,FaceAPITest.testLocation,640x427,BGR,Multiple,Face,,Woman,Open,Smiling,Indoors,Front,,,,"woman with a baby on a bed, baby lying down",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,baby_4.data,.data,"819,840",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,640x427,BGR,Multiple,Face,,Woman,Open,Smiling,Indoors,Front,,,,"woman with a baby on a bed, baby lying down",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,baby_4.data,.data,"819,840",com.gemalto.cogent.test.face,FaceAPITest.testTrack,640x427,BGR,Multiple,Face,,Woman,Open,Smiling,Indoors,Front,,,,"woman with a baby on a bed, baby lying down",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,black_white.data,.data,"523,500",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x349,BGR,Multiple,Person,,,Open,,Colour,Front,,,,"picture of a black and white photo, group photo with writing on the top, 5 men, 8 women",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,black_white.data,.data,"523,500",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x349,BGR,Multiple,Person,,,Open,,Colour,Front,,,,"picture of a black and white photo, group photo with writing on the top, 5 men, 8 women",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,black_white.data,.data,"523,500",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x349,BGR,Multiple,Person,,,Open,,Colour,Front,,,,"picture of a black and white photo, group photo with writing on the top, 5 men, 8 women",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,busy_background_false.data,.data,"185,460",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,220x281,BGR,One,Face,,Woman,Open,Neutral,Indoors,Front,,,,"old, background full of stuff (plants?), bottom right corner has a white X on red background",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_ears_not_obscured_by_hair_false.data,.data,"1,653,912",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,589x936,BGR,One,Face,,Woman,Open,Neutral,Indoors,Front,,,,ears mostly covered by hair,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_ears_not_obscured_by_hair_true.data,.data,"2,014,962",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,673x998,BGR,One,Face,,Man,Open,Neutral,Colour,Front,,,,"short hair, ears completely visible",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_eye_color_0_hair_color_0.data,.data,"27,677,376",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,2736x3372,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"black hair, black eyes",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_eye_color_false.data,.data,"2,635,446",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,803x1094,BGR,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,"selfie, blue hair, blue eyes (one darker)",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_gray_scale_prof_false.data,.data,"1,204,980",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,532x755,BGR,One,Face,,Man,Open,Neutral,Indoors,Front,,,,"picture of a very old photo, faded, blurry, wearing hat, writing in corners",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_hair_color_false.data,.data,"1,936,704",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,704x917,BGR,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,"selfie, pink hair, head slightly tilted, ",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_no_moustache_False.data,.data,"2,638,149",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,809x1087,BGR,One,Face,,Man,Open,Neutral,Indoors,Front,,,,"selfie, bald, beard",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,b_no_moustache_True.data,.data,"1,868,508",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,711x876,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,no beard/moustache,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,c15.data,.data,"1,228,800",N/F,N/F,640x640,BGR,One,Face,,Woman,Open,Smiling,Colour,Front,,,,anime girl,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,cartoon_false.data,.data,"343,200",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,400x286,BGR,One,Face,,Man,Open,Neutral,Colour,45° Right,,,,anime boy,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,chile.data,.data,"633,600",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,400x528,BGR,One,Face,,Woman,Open,Smiling,White,Front,,,\assets\common\face1.data,"old, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,chile_10081_1213-58666_passall_3.data,.data,"633,600",com.gemalto.cogent.test.face,FaceAPITest.testPassQualityCheck,400x528,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,id photo,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,contrast_6.data,.data,"564,000",N/F,N/F,376x500,BGR,One,Face,,Woman,Open,Smiling,Black,45° Right,,,,"very bright face, dark background, hight contrast, no colour",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Contrast_False.data,.data,"398,775",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,325x409,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,,"very bright background, bright face. low contrast",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,con_1.data,.data,"480,000",N/F,N/F,400x400,BGR,One,Face,,Woman,Open,Neutral,Outdoors ,45° Right,,,,low contrast,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Dozens_Faces_M.data,.data,"13,790,160",com.gemalto.cogent.test.face,FaceAPITest.testLocation,2148x2140,BGR,Multiple,Person,,,,,Outdoors ,Front,,,,"group photo, 20+ faces, some cut",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Dozens_Faces_M.data,.data,"13,790,160",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,2148x2140,BGR,Multiple,Person,,,,,Outdoors ,Front,,,,"group photo, 20+ faces, some cut",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Dozens_Faces_M.data,.data,"13,790,160",com.gemalto.cogent.test.face,FaceAPITest.testTrack,2148x2140,BGR,Multiple,Person,,,,,Outdoors ,Front,,,,"group photo, 20+ faces, some cut",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,duoren_1.data,.data,"1,284,720",com.gemalto.cogent.test.face,FaceAPITest.testLocation,848x505,BGR,Multiple,Person,,,,,Outdoors ,,,,,"group photo, 18 people, 2 with sunglasses",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,duoren_1.data,.data,"1,284,720",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,848x505,BGR,Multiple,Person,,,,,Outdoors ,,,,,"group photo, 18 people, 2 with sunglasses",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,duoren_1.data,.data,"1,284,720",com.gemalto.cogent.test.face,FaceAPITest.testTrack,848x505,BGR,Multiple,Person,,,,,Outdoors ,,,,,"group photo, 18 people, 2 with sunglasses",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,E3_S0_A1_4d_1_depth_91.raw,.raw,"1,843,208",com.gemalto.cogent.test.face,FaceAPITest.testLivenessSilent,N/A,N/A,,,,,,,,,,,,abstract data,,,#REF!,#REF!,#REF!,#REF!,FALSE
+\assets\face\image,exposure_false.data,.data,"178,524",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,171x348,BGR,One,Face,,Man,Open,Neutral,Indoors,Front,,,,"selfie, extremely over-exposed",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,EyePatch_False.data,.data,"270,000",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,300x300,BGR,One,Face,,Woman,,Smiling,Indoors,Front,,,,"eyes covered with sleeping mask, head resting on hands",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,eye_open_false.data,.data,"842,724",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,459x612,BGR,One,Face,,Man,Closed,Neutral,White,Front,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,eye_shadow_false.data,.data,"921,600",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,640x480,BGR,One,Face,,Man,,Neutral,Indoors,Front,,,,"very dark, eyes completely in shadow, no colour",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Faceg.data,.data,"633,600",N/F,N/F,400x528,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"id  photo, chin puff beard, unibrow",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Facep.data,.data,"633,600",N/F,N/F,400x528,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"id photo, soul patch, unibrow",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,face_bad_quality_from_mosip.data,.data,"230,400",com.gemalto.cogent.test.face,FaceAPITest_NT.testQualityCheckBadQuality,240x320,BGR,One,Face,,Man,Open,Neutral,Indoors,Front,,,,"bad quality, dark, glasses, eyes barely visible. moustache",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,flash_5.data,.data,"1,920,000",N/F,N/F,800x800,BGR,One,Face,,Man,Sunglasses,Neutral,White,Front,,,,aviator glasses with reflections,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,flash_reflection_false.data,.data,"1,248,048",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,648x642,BGR,One,Face,,Woman,Sunglasses,Neutral,White,45° Right,,,,reflection of a room visible in glasses,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,frames_uncover_eyes_false.data,.data,"2,112,000",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,1000x704,BGR,One,Face,,Woman,Open,Smiling,Indoors,Front,,,,"glasses, frames covering top of eyes",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,frontal_false.data,.data,"331,776",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,384x288,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"glasses, frames touching top of eyes",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_gallery.data,.data,"290,520",com.gemalto.cogent.test.face,FaceAPITest.testLocation,269x360,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"bald,id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_gallery.data,.data,"290,520",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,269x360,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"bald,id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_gallery.data,.data,"290,520",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,269x360,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"bald,id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_gallery.data,.data,"290,520",com.gemalto.cogent.test.face,FaceAPITest.testVerify,269x360,BGR,One,Face,,Man,Open,Neutral,White,Front,,,,"bald,id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_probe.data,.data,"227,520",com.gemalto.cogent.test.face,FaceAPITest.testLocation,240x316,BGR,One,Face,,Man,Open,,Indoors,Front,,GC_gallery.data,,facemask,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_probe.data,.data,"227,520",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,240x316,BGR,One,Face,,Man,Open,,Indoors,Front,,GC_gallery.data,,facemask,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_probe.data,.data,"227,520",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,240x316,BGR,One,Face,,Man,Open,,Indoors,Front,,GC_gallery.data,,facemask,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_probe.data,.data,"227,520",com.gemalto.cogent.test.face,FaceAPITest.testTrack,240x316,BGR,One,Face,,Man,Open,,Indoors,Front,,GC_gallery.data,,facemask,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,GC_probe.data,.data,"227,520",com.gemalto.cogent.test.face,FaceAPITest.testVerify,240x316,BGR,One,Face,,Man,Open,,Indoors,Front,,GC_gallery.data,,facemask,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,glasses_true.data,.data,"187,812",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,222x282,BGR,One,Face,,Woman,Open,Neutral,White,Front,,,,"glasses, fringe, long hair, id photo",,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Greyscale_False.data,.data,"921,600",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,640x480,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,hair_cross_eye_false.data,.data,"360,000",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,300x400,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,hat_true.data,.data,"180,180",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,220x273,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,heavy_frames_false.data,.data,"747,000",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,498x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,heying1.data,.data,"5,033,952",com.gemalto.cogent.test.face,FaceAPITest.testLocation,1589x1056,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,heying1.data,.data,"5,033,952",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,1589x1056,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,hotspot_false.data,.data,"183,612",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,214x286,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_01.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_01.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_01.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_01.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testTrack,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_01.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_02.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_02.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_02.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_02.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testTrack,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00028_02.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testTrack,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testTrack,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00845_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,720x1280,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testTrack,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_1.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testLocation,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testTrack,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,ID_00846_2.data,.data,"2,764,800",com.gemalto.cogent.test.face,FaceAPITest.testVerify,1280x720,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,inked_false.data,.data,"473,634",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,358x441,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,irisBoth.raw,.raw,"384,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testLivenessSilentIncorrectlivenessParam,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,irisBoth.raw,.raw,"384,000",com.gemalto.cogent.test.iris,IrisAPITest.testTrackResultsBoth,1600x240,BW,,,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\face\image,irisBoth.raw,.raw,"384,000",com.gemalto.cogent.test.iris,IrisThreadSafetyTest.testThreadSafetyTrackResultsBoth,1600x240,BW,,,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\face\image,light_false.data,.data,"921,600",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,640x480,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,many_2.data,.data,"607,500",com.gemalto.cogent.test.face,FaceAPITest.testLocation,675x300,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,many_2.data,.data,"607,500",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,675x300,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,mouth_close_false.data,.data,"633,600",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,400x528,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,mult_face_013.data,.data,"2,359,296",com.gemalto.cogent.test.face,FaceAPITest.testLocation,1024x768,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,mult_face_013.data,.data,"2,359,296",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,1024x768,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,mult_face_013.data,.data,"2,359,296",com.gemalto.cogent.test.face,FaceAPITest.testTrack,1024x768,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,n1.data,.data,"562,500",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x375,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,n1.data,.data,"562,500",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x375,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,n1.data,.data,"562,500",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x375,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,o13.data,.data,"4,635,408",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,object_close_face_false.data,.data,"4,635,408",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,1076x1436,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_gallery.data,.data,"185,745",com.gemalto.cogent.test.face,FaceAPITest.testLocation,203x305,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_gallery.data,.data,"185,745",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,203x305,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_gallery.data,.data,"185,745",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,203x305,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_gallery.data,.data,"185,745",com.gemalto.cogent.test.face,FaceAPITest.testVerify,203x305,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_gallery.data,.data,"185,745",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifySameImages1,203x305,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_gallery.data,.data,"185,745",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifySameImages0,203x305,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_gallery.data,.data,"185,745",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifyFaceVsFinger,203x305,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_probe.data,.data,"1,514,400",com.gemalto.cogent.test.face,FaceAPITest.testLocation,631x800,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_probe.data,.data,"1,514,400",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,631x800,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_probe.data,.data,"1,514,400",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,631x800,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,P1_probe.data,.data,"1,514,400",com.gemalto.cogent.test.face,FaceAPITest.testVerify,631x800,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,pixelation_false.data,.data,"633,600",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,400x528,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,portCol00002.data,.data,"144,525",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,pose_roll_large_001.data,.data,"4,665,600",com.gemalto.cogent.test.face,FaceAPITest.testLocation,1080x1440,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,pose_roll_large_001.data,.data,"4,665,600",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,1080x1440,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,pose_roll_large_001.data,.data,"4,665,600",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,1080x1440,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,pose_roll_large_001.data,.data,"4,665,600",com.gemalto.cogent.test.face,FaceAPITest.testTrack,1080x1440,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,pose_roll_large_001.data,.data,"4,665,600",com.gemalto.cogent.test.face,FaceAPITest.testVerify,1080x1440,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,RedEye_False.data,.data,"278,832",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,296x314,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testQualityCheckFingerInsteadFace,1000x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testLocationFingerInsteadFace,1000x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testFeatureExtractFingerInsteadFace,1000x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testAttributeFingerInsteadFace,1000x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerifyFaceVsFinger,1000x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.face,FaceAPITest_NT.testVerify1SampleNull,1000x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerAPITest.testSegmentation,1500x1000,BW,,,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.finger,FingerThreadSafetyTest.testThreadSafetySegmentation,1500x1000,BW,,,,,,,,,,,,,,,FALSE,FALSE,TRUE,TRUE,FALSE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testThreadSafetyJpgEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testGetUnsupportedImageFormat,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgEncodingWrongWidth,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,right_4_slap.data,.data,"1,500,000",com.gemalto.cogent.test.image,BitmapUtilTest.testJpgEncodingWrongHeight,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,Right_ok.data,.data,"120,000",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,200x200,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Ripple_False.data,.data,"144,525",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,205x235,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,rotate_44_001.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,rotate_44_001.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,rotate_44_001.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,500x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,rotate_44_001.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,rotate_44_001.data,.data,"750,000",com.gemalto.cogent.test.face,FaceAPITest.testVerify,500x500,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,S027-01-t10_03.raw,.raw,"2,211,840",com.gemalto.cogent.test.face,FaceAPITest_NT.testFailQualityCheck,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,S145-01-t10_02.raw,.raw,"2,211,840",com.gemalto.cogent.test.face,FaceAPITest_NT.testFailQualityCheck,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,s19.data,.data,"348,000",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,S272-02-t10_01.raw,.raw,"2,211,840",com.gemalto.cogent.test.face,FaceAPITest_NT.testFailQualityCheck,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,sdk7010_fakeface_13.bmp.data,.data,"5,292,000",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtractFp,1680x1050,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,sdk7010_fakeface_24.bmp.data,.data,"2,092,032",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtractFp,681x1024,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,shadow_across_face_false.data,.data,"4,635,408",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,1076x1436,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,shadow_behind_head_false.data,.data,"49,152",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,128x128,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,Sharp_false.data,.data,"568,806",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,467x406,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,shoulder_true.data,.data,"118,125",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,175x225,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,tenfaces.data,.data,"2,365,605",com.gemalto.cogent.test.face,FaceAPITest.testLocation,1215x649,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,tenfaces.data,.data,"2,365,605",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,1215x649,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,tenfaces.data,.data,"2,365,605",com.gemalto.cogent.test.face,FaceAPITest_NT.testQualityCheckMultipleFaces,1215x649,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,testFP_00032.bmp.data,.data,"687,600",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtractFp,600x382,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,testFP_01261.data,.data,"1,125,000",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,testFP_01529.data,.data,"2,106,000",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,testFP_02432.data,.data,"1,810,755",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\image,tinted_glasses_false.data,.data,"116,412",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,178x218,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,TX0000000009AGV1_X01A.data,.data,"306,360",com.gemalto.cogent.test.face,FaceAPITest.testLocation,276x370,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,TX0000000009AGV1_X01A.data,.data,"306,360",com.gemalto.cogent.test.face,FaceAPITest.testFeatureExtract,276x370,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,TX0000000009AGV1_X01A.data,.data,"306,360",com.gemalto.cogent.test.face,FaceAPITest.testTrack,276x370,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,TX0000000009AGV1_X01A.data,.data,"306,360",com.gemalto.cogent.test.face,FaceAPITest.testVerify,276x370,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,veil_false.data,.data,"1,687,500",com.gemalto.cogent.test.face,FaceAPITest.testQualityCheck,750x750,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,with_hat_cover.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testLocation,500x333,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,with_hat_cover.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testAttribute,500x333,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\image,with_hat_cover.data,.data,"499,500",com.gemalto.cogent.test.face,FaceAPITest.testTrack,500x333,RGB,,,,,,,,,,,,,,,TRUE,FALSE,FALSE,TRUE,FALSE
+\assets\face\resources,faceQualityCfg.json,.json,"10,129",com.gemalto.cogent.test.face,FaceAPITest,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\resources,faceQualityCfg_csharp.json,.json,"10,184",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\templates,1_2.cfd,.cfd,389,com.gemalto.cogent.test.face,FaceAPIMatchOnlyTest.testVerify,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\face\templates,1_5.cfd,.cfd,389,com.gemalto.cogent.test.face,FaceAPIMatchOnlyTest.testVerify,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad,dependency.txt,.txt,227,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad,results.csv,.csv,"5,430",com.gemalto.cogent.test.facepad,FacePADTest.setUpBeforeClass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_0001_DSC01500.jpg,.jpg,"3,806,554",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_0001_DSC01500.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_0566_DSC05154.jpg,.jpg,"4,059,815",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_0566_DSC05154.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_0980_DSC07377.jpg,.jpg,"4,417,938",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_0980_DSC07377.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1209_DSC08974.jpg,.jpg,"3,926,165",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1209_DSC08974.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1397_DSC03501-3.jpg,.jpg,"3,844,407",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1397_DSC03501-3.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1484_DSC06217.jpg,.jpg,"4,237,916",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1484_DSC06217.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1487_DSC07768.jpg,.jpg,"3,095,259",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1487_DSC07768.jpg.data,.data,"20,982,240",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1501_DSC04910.jpg,.jpg,"3,676,126",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1501_DSC04910.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1510_DSC00001.jpg,.jpg,"3,781,056",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1510_DSC00001.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1514_DSC02053.jpg,.jpg,"3,403,106",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Live_1514_DSC02053.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub10_cap1.mp4_img_0150.jpg,.jpg,"921,587",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub10_cap1.mp4_img_0150.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub1_cap1.mp4_img_0120.jpg,.jpg,"815,836",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub1_cap1.mp4_img_0120.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub4_cap2.mp4_img_0145.jpg,.jpg,"1,034,885",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub4_cap2.mp4_img_0145.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub5_cap1.mp4_img_0120.jpg,.jpg,"828,272",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub5_cap1.mp4_img_0120.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub8_cap2.mp4_img_0030.jpg,.jpg,"1,013,232",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai10_080cm_sub8_cap2.mp4_img_0030.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai13_100cm_sub4_cap3.mp4_img_0090.jpg,.jpg,"1,467,921",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai13_100cm_sub4_cap3.mp4_img_0090.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai16_080cm_sub2_cap3.mp4_img_0120.jpg,.jpg,"404,163",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai16_080cm_sub2_cap3.mp4_img_0120.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai16_080cm_sub3_cap3.mp4_img_0120.jpg,.jpg,"415,279",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai16_080cm_sub3_cap3.mp4_img_0120.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai16_100cm_sub1_cap1.mp4_img_0060.jpg,.jpg,"679,482",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai16_100cm_sub1_cap1.mp4_img_0060.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai19_080cm_sub3_cap3.mp4_img_0030.jpg,.jpg,"380,165",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\facepad\image,Spoof_WEBCAM_pai19_080cm_sub3_cap3.mp4_img_0030.jpg.data,.data,"24,883,200",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionAES_100k.db,.db,"822,000,000",com.gemalto.cogent.benchmarktest.finger,EncryptedAESFingerPrintBenchMark.test100KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionAES_10k.db,.db,"82,161,664",com.gemalto.cogent.benchmarktest.finger,EncryptedAESFingerPrintBenchMark.test10KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionAES_50k.db,.db,"411,000,000",com.gemalto.cogent.benchmarktest.finger,EncryptedAESFingerPrintBenchMark.test50KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionAES_5k.db,.db,"41,082,880",com.gemalto.cogent.benchmarktest.finger,EncryptedAESFingerPrintBenchMark.test5KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionChacha_100k.db,.db,"822,000,000",com.gemalto.cogent.benchmarktest.finger,EncryptedChachaFingerPrintBenchMark.test100KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionChacha_10k.db,.db,"82,161,664",com.gemalto.cogent.benchmarktest.finger,EncryptedChachaFingerPrintBenchMark.test10KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionChacha_50k.db,.db,"411,000,000",com.gemalto.cogent.benchmarktest.finger,EncryptedChachaFingerPrintBenchMark.test50KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,fingerEncryptionCHACHA_5k.db,.db,"41,082,880",com.gemalto.cogent.benchmarktest.finger,EncryptedChachaFingerPrintBenchMark.test5KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,nonEnc_100k.db,.db,"822,000,000",com.gemalto.cogent.benchmarktest.finger,NonEncrytedFingerBenchMark.testNonEnc100KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,nonEnc_10k.db,.db,"82,161,664",com.gemalto.cogent.benchmarktest.finger,NonEncrytedFingerBenchMark.test10KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,nonEnc_50k.db,.db,"411,000,000",com.gemalto.cogent.benchmarktest.finger,NonEncrytedFingerBenchMark.test50KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\finger_perf_dbs,nonEnc_5k.db,.db,"41,082,880",com.gemalto.cogent.benchmarktest.finger,NonEncrytedFingerBenchMark.testNonEnc5KMatching,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,blur_focus_001.jpg,.jpg,"85,152",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceBlur,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,blur_focus_002.jpg,.jpg,"134,033",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceBlur,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,blur_focus_003.jpg,.jpg,"126,886",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceBlur,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,blur_noise_001.jpg,.jpg,"23,116",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceBlur,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,blur_sport_001.jpg,.jpg,"86,422",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceBlur,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,blur_sport_002.jpg,.jpg,"85,427",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceBlur,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,blur_sport_003.jpg,.jpg,"83,595",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceBlur,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,common_exposure_001.jpg,.jpg,"64,369",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceExposure,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dbImage.jpg,.jpg,"176,190",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectLivenessFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big.jpg,.jpg,"15,338,269",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big_2000.jpg,.jpg,"1,097,769",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big_4094.jpg,.jpg,"2,995,045",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big_crop.jpg,.jpg,"1,725,692",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big_crop2000.jpg,.jpg,"944,028",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big_crop3000.jpg,.jpg,"1,725,692",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big_morecrop.jpg,.jpg,"1,258,660",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,dozens faces_big_morecrop2000.jpg,.jpg,"720,629",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,eye_closed_001.jpg,.jpg,"93,755",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceEyeOpen,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,eye_opened_001.jpg,.jpg,"1,061,768",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceEyeOpen,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,graduateStudents_merge_best.jpg,.jpg,"1,129,251",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,graduateStudents_merge_Morethan240.jpg,.jpg,"1,061,217",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,high_exposure_001.jpg,.jpg,"72,916",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceExposure,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,high_exposure_002.jpg,.jpg,"58,910",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceExposure,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,liveImage1.jpg,.jpg,"34,384",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectLivenessFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,liveImage2.jpg,.jpg,"77,758",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectLivenessFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,lnd_001.jpg,.jpg,"11,878",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,low_exposure_001.jpg,.jpg,"54,492",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceExposure,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,low_exposure_002.jpg,.jpg,"47,232",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceExposure,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,middle_exposure_001.jpg,.jpg,"30,369",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceExposure,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,one_person_001.jpg,.jpg,"122,553",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceCgtEye,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,open_big_mouth_001.jpg,.jpg,"104,675",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceMouthClosed,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,open_middle_mouth_001.jpg,.jpg,"110,646",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceMouthClosed,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,open_minor_mouth_001.jpg,.jpg,"103,998",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceMouthClosed,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_1500.jpg,.jpg,"539,849",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_2000.jpg,.jpg,"793,819",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_3200.jpg,.jpg,"1,490,377",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_4000.jpg,.jpg,"2,153,562",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_crop.jpg,.jpg,"1,391,217",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_crop2000.jpg,.jpg,"684,098",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_crop3000.jpg,.jpg,"1,174,887",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_little.jpg,.jpg,"2,219,643",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_moreCrop3000.jpg,.jpg,"1,108,697",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_original.jpg,.jpg,"5,003,797",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,photo_with_32 faces_resize.jpg,.jpg,"893,618",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_pitch_large_001.jpg,.jpg,"65,418",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFacePitch,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_pitch_middle_001.jpg,.jpg,"67,312",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFacePitch,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_pitch_minor_001.jpg,.jpg,"58,566",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFacePitch,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_roll_large_001.jpg,.jpg,"63,623",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceRoll,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_roll_middle_001.jpg,.jpg,"93,215",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceRoll,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_roll_minor_001.jpg,.jpg,"61,411",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceRoll,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_yaw_large_001.jpg,.jpg,"67,952",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceYaw,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_yaw_middle_001.jpg,.jpg,"66,941",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceYaw,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,pose_yaw_minor_001.jpg,.jpg,"65,530",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceYaw,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,rotate_00_001.jpg,.jpg,"23,355",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,rotate_20_001.jpg,.jpg,"23,538",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,rotate_30_001.jpg,.jpg,"23,816",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,rotate_44_001.jpg,.jpg,"23,878",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,rotate_45_001.jpg,.jpg,"19,615",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,scenery_001.jpg,.jpg,"1,737,768",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,sean_frontal_001.jpg,.jpg,"40,448",com.gemalto.cogent.test.frp.FaceMatching,FaceMatchTest.testMatchFace,2298x2398,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,sean_frontal_001.jpg,.jpg,"40,448",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceGlass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,sean_frontal_001.jpg,.jpg,"40,448",com.gemalto.cogent.test.frp.FaceMatching,FaceSearchTest.testSearchFace,2283x2383,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,standard_mask_001.jpg,.jpg,"324,528",com.gemalto.cogent.test.frp.FaceMatching,FaceMatchTest.testMatchFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,sunglass_001.jpg,.jpg,"24,581",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceGlass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,thirteen_persons_001.jpg,.jpg,"227,002",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,three_persons_001.png,.png,"383,531",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceCgtEye,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_frontal_001.jpg,.jpg,"45,373",com.gemalto.cogent.test.frp.FaceMatching,FaceMatchTest.testMatchFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_frontal_001.jpg,.jpg,"45,373",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceGlass,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_frontal_001.jpg,.jpg,"45,373",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFacePitch,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_frontal_001.jpg,.jpg,"45,373",com.gemalto.cogent.test.frp.FaceMatching,FaceSearchTest.testSearchFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_frontal_002.jpg,.jpg,"38,413",com.gemalto.cogent.test.frp.FaceMatching,FaceMatchTest.testMatchFace,3704x3904,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_frontal_002.jpg,.jpg,"38,413",com.gemalto.cogent.test.frp.FaceMatching,FaceSearchTest.testSearchFace,3704x3904,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_pitch_001.jpg,.jpg,"58,566",com.gemalto.cogent.test.frp.FaceMatching,FaceMatchTest.testMatchFace,3426x3626,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_pitch_001.jpg,.jpg,"58,566",com.gemalto.cogent.test.frp.FaceMatching,FaceSearchTest.testSearchFace,3426x3626,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_roll_001.jpg,.jpg,"61,411",com.gemalto.cogent.test.frp.FaceMatching,FaceMatchTest.testMatchFace,3550x3750,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_roll_001.jpg,.jpg,"61,411",com.gemalto.cogent.test.frp.FaceMatching,FaceSearchTest.testSearchFace,3564x3764,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_roll_002.jpg,.jpg,"74,036",com.gemalto.cogent.test.frp.FaceMatching,FaceQualityTest.testQualityFaceRoll,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_yaw_001.jpg,.jpg,"66,941",com.gemalto.cogent.test.frp.FaceMatching,FaceMatchTest.testMatchFace,3515x3715,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,tom_yaw_001.jpg,.jpg,"66,941",com.gemalto.cogent.test.frp.FaceMatching,FaceSearchTest.testSearchFace,3515x3715,#N/A,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp,twelve_persons_001.jpg,.jpg,"272,650",com.gemalto.cogent.test.frp.FaceMatching,FaceDetectTest.testDetectFace,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,4k.mp4,.mp4,"14,774,770",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,D415_win7_one_fake_person.bag,.bag,"147,000,000",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,D415_win7_one_real_person.bag,.bag,"75,100,072",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,Double_IR.mp4,.mp4,"1,028,213",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,Double_RGB.mp4,.mp4,"1,076,487",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,IR_one_real_person.avi,.avi,"13,681,152",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,IR_real_fake_persons.avi,.avi,"13,681,152",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,office.mp4,.mp4,"3,322,561",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,office_building_gate_5s.mp4,.mp4,"12,602,743",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,Renning.mp4,.mp4,"2,529,924",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\frp\Videos,Tom.mp4,.mp4,"3,783,207",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-IdcProblems-L2.xml,.xml,"203,821",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-L1.xml,.xml,"202,573",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-all-supported-types-utf8-L2.xml,.xml,"203,868",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-invalid-xml-characters-utf8-L1.xml,.xml,"665,474",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-only-type-1-present-utf8-L1.xml,.xml,"6,367",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-reserved-character-utf8-L1.xml,.xml,"5,065",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-reserved-characters-utf8-L1.xml,.xml,"5,094",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-1-mandatory-only-utf8-L1.xml,.xml,"5,066",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-1-utf8-L1.xml,.xml,"7,946",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-10-utf8-L1.xml,.xml,"49,336",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-10-utf8-mandatory-only-L1.xml,.xml,"12,181",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-13-utf8-L1.xml,.xml,"71,014",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-13-utf8-mandatory-only-L1.xml,.xml,"24,350",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-14-utf8-L1.xml,.xml,"57,425",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-14-utf8-mandatory-only-L1.xml,.xml,"28,825",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-15-utf8-L1.xml,.xml,"19,022",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-15-utf8-mandatory-only-L1.xml,.xml,"8,436",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-L1.xml,.xml,"30,694",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-L2.xml,.xml,"175,501",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-17-utf8-mandatory-only-L1.xml,.xml,"8,307",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,fail-type-4-utf8-L1.xml,.xml,"9,616",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-all-supported-types-utf8-L1&L2.xml,.xml,"5,748,433",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-1-mandatory-only-utf8-L1.xml,.xml,"5,062",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-1-utf8-L1.xml,.xml,"7,920",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-10-utf8-L1.xml,.xml,"155,475",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-10-utf8-mandatory-only-L1.xml,.xml,"120,786",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-13-utf8-L1.xml,.xml,"5,337,208",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-13-utf8-mandatory-only-L1.xml,.xml,"4,221,926",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-14-utf8-L1.xml,.xml,"259,617",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-14-utf8-mandatory-only-L1.xml,.xml,"157,398",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-15-utf8-L1.xml,.xml,"62,536",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-15-utf8-mandatory-only-L1.xml,.xml,"7,584",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-17-utf8-L1.xml,.xml,"175,603",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-17-utf8-mandatory-only-L1.xml,.xml,"6,991",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,pass-type-4-utf8-L1.xml,.xml,"151,949",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,warning-all-types-utf8-L1.xml,.xml,"6,223,302",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\NIEM XML Encoding,warning_10_022_and_4_008_legacy_utf8-L1.xml,.xml,"513,224",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-9-missing-EFS-fields.an2,.an2,"1,260,019",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-L1.an2,.an2,"427,034",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-all-supported-types-L2.an2,.an2,"328,659",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-deprecated-records.an2,.an2,135,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-missing-info-items.an2,.an2,244,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-L1.an2,.an2,275,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-L2.an2,.an2,276,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-1-wrong-record-number.an2,.an2,276,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-L2.an2,.an2,"8,264",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-smt-combined-L1.an2,.an2,"227,693",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-10-face-smt-combined-L2.an2,.an2,"227,686",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-13-L1.an2,.an2,"6,610",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-13-L2.an2,.an2,"6,607",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-14-L1.an2,.an2,"50,881",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-14-L2.an2,.an2,"50,894",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-15-L1.an2,.an2,"50,752",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-15-L2.an2,.an2,"50,730",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-17-L1.an2,.an2,"107,773",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-17-L2.an2,.an2,"107,740",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-4-L1.an2,.an2,"104,536",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail-type-4-L2.an2,.an2,"104,536",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,fail_IDC_Sequential_Tests.an2,.an2,"672,819",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types-with-2.003-udf-with-sf.an2,.an2,"1,260,149",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types-with-2.003-udf.an2,.an2,"1,260,075",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-all-supported-types.an2,.an2,"2,207,432",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1-long-fieldnumber.an2,.an2,290,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1-mandatory-only.an2,.an2,129,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-1.an2,.an2,276,com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-14-17-piv-index-iris-replacedCorruptImages_fixedAspectRatio.an2,.an2,"288,049",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-14-17-piv-index-iris.an2,.an2,"607,484",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-branded-tattoo-mark-reserved-fields-removedReserved.an2,.an2,"20,625",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-branded-tattoo-mark.an2,.an2,"20,625",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face-mandatory-only.an2,.an2,"8,367",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face-smt-combined.an2,.an2,"227,576",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-face.an2,.an2,"69,830",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-Ncic-2007-unique-addedRequiredInfoItems.an2,.an2,"16,601,579",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-sap10-AddJpegWithJfif.an2,.an2,"68,840",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-sap10.an2,.an2,"359,284",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-scar-face-sap50-addedRequiredInfoItems.an2,.an2,"16,601,579",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-scar-face-sap50.an2,.an2,"16,601,579",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-smt-mandatory-only.an2,.an2,"8,256",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-smt.an2,.an2,"68,356",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-face-sap20.an2,.an2,"2,898,640",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-zoom-SyncValuesForMatchingIDCValues.an2,.an2,"134,989",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-10-tattoo-zoom.an2,.an2,"425,658",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-14-latent-match.an2,.an2,"1,229,352",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-mandatory-only.an2,.an2,"46,409",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-tip-eji-j2l-replaced-wsq-with-png.an2,.an2,"2,110,947",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-tip-eji-j2l.an2,.an2,"6,353,854",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13-with-some-type-14-fields.an2,.an2,"6,862,018",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-13.an2,.an2,"614,931",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-amp-nqm-utf8-updatedWsqVersion.an2,.an2,"247,595",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-amp-nqm-utf8.an2,.an2,"247,595",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-aseg-duplicate-removedDuplicateAndupdatedWsqVersion.an2,.an2,"247,634",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-aseg-updatedWsqVersion.an2,.an2,"247,634",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-fld21.an2,.an2,"50,862",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-mandatory-only.an2,.an2,"50,667",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-tip-eji-j2l.an2,.an2,"6,353,855",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14-tpcard-nqm.an2,.an2,"674,974",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-14.an2,.an2,"50,877",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15-mandatory-only.an2,.an2,"50,669",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15-palms.an2,.an2,"2,544,507",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-15.an2,.an2,"50,753",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-21.an2,.an2,"8,827,876",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-diameter-removedJpeg.an2,.an2,"107,367",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-nojfif-removedJpeg.an2,.an2,"107,367",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-jpeg-removedJpeg.an2,.an2,"107,356",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris-updatedPixelDensity.an2,.an2,"107,356",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-iris.an2,.an2,"107,356",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf1-max.an2,.an2,"108,355",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf1-min.an2,.an2,"107,385",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf2-max.an2,.an2,"207,972",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf3-max.an2,.an2,"78,726",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-left-isf7-max.an2,.an2,"49,173",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17-mandatory-only.an2,.an2,"107,380",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-17.an2,.an2,"107,755",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-18-FSA.an2,.an2,"279,039",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-flats.an2,.an2,"267,509",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-slaps-updatedWsqVersion.an2,.an2,"267,473",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tip-eji-j2l-updatedDfp.an2,.an2,"6,353,856",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tip-eji-wsq-updatedDfpAndWsqVersion.an2,.an2,"205,749",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-14-tpcard-nqm-updatedWsqVersion.an2,.an2,"674,974",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-flats.an2,.an2,"267,390",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-slaps-legacy-gca-updatedWsqVersionAndMadeNonLegacy2.an2,.an2,"267,364",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-tpcard-updatedWsqVersion.an2,.an2,"672,821",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4-tpcard.an2,.an2,"672,843",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-4.an2,.an2,"104,536",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-7-latent.an2,.an2,"614,705",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-8-sig-fax.an2,.an2,667,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-8-sig-raw.an2,.an2,"1,724",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-10-14-fbi.an2,.an2,"977,339",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-10-14.an2,.an2,"976,947",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-13-9-14-m1.an2,.an2,"1,237,862",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-13-m1.an2,.an2,"619,038",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-14-m1.an2,.an2,"619,040",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2011_SampleData\Traditional Encoding,pass-type-9-4-iafis.an2,.an2,"618,561",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,AllFields.xml,.xml,"378,408",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011 - Vince example.xml,.xml,"449,658",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011-transitional.xml,.xml,"122,239",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,Instance_2011.xml,.xml,"449,658",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\NIEM XML Encoding,pass-all-supported-types-utf8-L1&L2.xml,.xml,"5,787,851",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-1.006-invalid-value.an2,.an2,"1,259,753",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-1.018-invalid-value.an2,.an2,"1,259,753",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-last-record-idc-mismatch-value-found-in-1.003.an2,.an2,"1,259,753",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-level1.an2,.an2,"1,259,757",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,fail-all-supported-types-long-data.nist,.nist,"2,296,603",com.gemalto.cogent.test.nist,TestFileParsing.testFileReadEmptyRecord,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-all-supported-types.an2,.an2,"2,296,235",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-10-face-smt-combined.an2,.an2,"1,264,853",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-18-FSA.an2,.an2,"279,039",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-13-9-14-m1.an2,.an2,"1,237,862",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-13-m1.an2,.an2,"619,038",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,pass-type-9-14-m1.an2,.an2,"619,040",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\AN2013_SampleData\Traditional Encoding,warning-ctrl-characters-.an2,.an2,"1,264,853",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,README.pdf,.pdf,"19,111",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-14-17-piv-index-iris.an2,.an2,"389,731",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-branded-tattoo-mark.an2,.an2,"20,631",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-sap10.an2,.an2,"350,296",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-scar-face-sap50.an2,.an2,"16,601,588",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-tattoo-face-sap20.an2,.an2,"2,898,646",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-10-tattoo-zoom.an2,.an2,"425,646",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-14-latent-match.an2,.an2,"1,229,358",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-tip-eji-j2l.an2,.an2,"6,353,881",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-13-tip-eji-wsq.an2,.an2,"205,769",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-amp-nqm-utf8.an2,.an2,"247,605",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tip-eji-j2l.an2,.an2,"6,353,881",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tip-eji-wsq.an2,.an2,"205,769",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-14-tpcard-nqm.an2,.an2,"674,994",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-15-palms.an2,.an2,"2,544,513",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-17-iris.an2,.an2,"107,364",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-3.an2,.an2,"151,397",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-14-slaps.an2,.an2,"267,479",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-slaps.an2,.an2,"267,370",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-4-tpcard.an2,.an2,"672,832",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-5.an2,.an2,"19,421",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-6.an2,.an2,"76,197",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-7-latent.an2,.an2,"614,686",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-fax.an2,.an2,670,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-fax.an2_image_with_metadata.png,.png,"39,451",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-raw.an2,.an2,"36,227",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig-raw.an2_image_with_metadata.png,.png,"47,049",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-8-sig.an2,.an2,"48,689",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-10-14.an2,.an2,"968,702",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-9-14-m1.an2,.an2,"1,240,313",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-m1.an2,.an2,"620,264",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-13-std.an2,.an2,"618,622",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-14-m1.an2,.an2,"620,277",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-14-std.an2,.an2,"618,622",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\ansi_nist_character_separated_reference_files,type-9-4-iafis.an2,.an2,"618,574",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\francois,LS003C1908200005_2.tdf,.tdf,"2,744,537",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\francois,pass-all-supported-types.nst,.nst,"2,207,432",com.gemalto.cogent.test.nist,TestFileParsing.testFileReadWriteAllTypes,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,BM00193265-subj.nist.tdf,.tdf,"9,226,573",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,CGTO009907F-subj.nist_T.tdf,.tdf,"578,879",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,FBT00002584.tdf,.tdf,"2,415,665",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,FIDN-Blank.tdf,.tdf,"4,917",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,FIDN-MULTI.tdf,.tdf,"141,271",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,Finger-ENR-Diff-Fing.tdf,.tdf,"364,896",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,Finger-Roll-Flat-Palm-Face-Iris-IDN_AUTOTEST.tdf,.tdf,"6,947,777",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,PO2FD.tdf,.tdf,"6,469,212",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,TENR_wronggender.tdf,.tdf,"391,083",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,TIDN_poor1_2.tdf,.tdf,"592,493",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,TQSL.tdf,.tdf,"391,109",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,TSRCH-m.tdf,.tdf,191,N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_alvaro_de_la_cruz,Wrong_flow_tcn_100.tdf,.tdf,"92,727",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\from_pete,New Example Nist File_no Type 20.tdf,.tdf,"1,125,107",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,INTERPOL-CustomDemographics-FieldDefinition.xml,.xml,"18,936",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-crimi.ref,.ref,"1,664,853",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-crimi.tdf,.tdf,"1,664,842",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-criminal-sent.ref,.ref,"2,601,386",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-criminal-sent.tdf,.tdf,"2,601,442",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-elimination-sent.ref,.ref,"2,502,470",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-elimination-sent.tdf,.tdf,"2,502,459",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-unidentified-sent.ref,.ref,"2,762,442",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,Malta-unidentified-sent.tdf,.tdf,"2,762,460",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.ref,.ref,"1,226,030",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.ref,.ref,"1,226,030",com.gemalto.cogent.test.nist,TestThreadSafety.testDecodingEncodingInMultipleThreads,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.tdf,.tdf,"1,226,070",com.gemalto.cogent.test.nist,TestFileParsing.testDecodingEncoding,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\assets\nist-tests-extension-data\malta_project,NIST-sample-types-1-2-4-9-10-13-14-15.tdf,.tdf,"1,226,070",com.gemalto.cogent.test.nist,TestThreadSafety.testDecodingEncodingInMultipleThreads,N/F,,,,,,,,,,,,,,,,,,,N/A,TRUE
+\samples\resources\FaceSample,1_2.data,.data,"351,054",N/F,N/F,N/F,,,,,,,,,,,,\assets\common\face_crop\input\woman_1_2.data,,,,,,,N/A,TRUE
+\samples\resources\FaceSample,1_5.data,.data,"471,375",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,,
+\samples\resources\FaceSample,3.data,.data,"499,500",N/F,N/F,N/F,,,,,,,,,,,,\assets\common\face_crop\input\3_faces.data,,,,,,,,
+\samples\resources\FaceSample,4_1.data,.data,"1,887,144",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,,
+\samples\resources\FaceSample,6_1.data,.data,"2,685,600",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,,
+\samples\resources\FaceSample,8.data,.data,"516,420",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,,
+\samples\resources\FaceSample,E3_S0_A1_4d_1_depth_91.raw,.raw,"1,843,208",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,,
+\samples\resources\FaceSample,testFP_00032.bmp.data,.data,"687,600",N/F,N/F,N/F,,,,,,,,,,,,,,,,,,,,
